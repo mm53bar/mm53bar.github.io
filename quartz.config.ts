@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "en-CA",
+    locale: "en-US",
     baseUrl: "garden.aream.ca",
     ignorePatterns: [
       "_ARCHIVE/**",
