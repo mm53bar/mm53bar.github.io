@@ -4,6 +4,12 @@ sources:
   - "[[Clippings/The challenges of soft delete]]"
 publish: true
 tags: [evergreen]
+similar:
+  - Soft deletes should use archive tables with triggers (0.81)
+  - PostgreSQL triggers automate deletion archival (0.80)
+  - Archive tables separate deleted data from live tables (0.80)
+  - Synthesis notes connect atomic notes into actionable strategies (0.79)
+  - The challenges of soft delete (0.79)
 ---
 
 Adding `deleted_at` columns to tables forces every query to include `WHERE deleted_at IS NULL` to filter out soft-deleted records. Forgetting this predicate accidentally exposes deleted data.

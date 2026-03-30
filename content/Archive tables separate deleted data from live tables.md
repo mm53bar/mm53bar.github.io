@@ -4,6 +4,12 @@ sources:
   - "[[Clippings/The challenges of soft delete]]"
 publish: true
 tags: [evergreen]
+similar:
+  - Soft deletes should use archive tables with triggers (0.80)
+  - PostgreSQL triggers automate deletion archival (0.80)
+  - deleted_at columns create query complexity (0.80)
+  - Letting Ryan go (0.79)
+  - Evergreen notes should fit on an index card (0.79)
 ---
 
 Storing deleted records in a separate table (rather than flagging them with `deleted_at`) keeps live data clean and queries simple.

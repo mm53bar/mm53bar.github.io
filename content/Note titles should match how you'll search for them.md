@@ -6,6 +6,12 @@ sources:
   - "[[Clippings/Evergreen notes]]"
   - "[[Evergreen notes should be concept-oriented]]"
 publish: true
+similar:
+  - Atomic notes can transcend their original context (0.80)
+  - Synthesis notes connect atomic notes into actionable strategies (0.79)
+  - PostgreSQL triggers automate deletion archival (0.79)
+  - PirateWeather (0.79)
+  - Soft deletes should use archive tables with triggers (0.79)
 ---
 
 Note titles should balance concept-orientation with practical discoverability—you need to find them when making decisions.

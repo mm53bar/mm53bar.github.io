@@ -3,6 +3,12 @@ sources:
   - "[[Clippings/Short-term vs Long-term|Short-term vs Long-term]]"
 publish: true
 tags: [evergreen]
+similar:
+  - Short-term vs Long-term (0.79)
+  - Products over projects (0.79)
+  - Strategic opportunism (0.79)
+  - Unlocking high software engineering pace Drive adoption of AI (0.79)
+  - Kim Wu (0.79)
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.
 

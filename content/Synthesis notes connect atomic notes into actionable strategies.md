@@ -5,6 +5,12 @@ tags:
 sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
+similar:
+  - Atomic notes can transcend their original context (0.80)
+  - Soft deletes should use archive tables with triggers (0.80)
+  - AGENTS (0.80)
+  - deleted_at columns create query complexity (0.79)
+  - Youtube series on Teardrop Camper (0.79)
 ---
 
 While [[Atomic notes can transcend their original context|atomic notes]] capture individual concepts, synthesis notes combine them into actionable strategies for making decisions.

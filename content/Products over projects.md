@@ -3,6 +3,12 @@ sources:
   - "[[Clippings/Products Over Projects|Products Over Projects]]"
 publish: true
 tags: [evergreen]
+similar:
+  - Look for leverage (0.80)
+  - RFC (0.80)
+  - Adding features makes it hard to add features (0.80)
+  - Strategic opportunism (0.80)
+  - Learning as a business strategy (0.80)
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:
 

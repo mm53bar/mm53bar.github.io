@@ -4,6 +4,12 @@ sources:
   - "[[Clippings/Products Over Projects|Products Over Projects]]"
 publish: true
 tags: [evergreen]
+similar:
+  - Phil Darch (0.80)
+  - Look for leverage (0.79)
+  - Stable teams gain more with AI (0.79)
+  - Adding features makes it hard to add features (0.79)
+  - PirateWeather (0.79)
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:
 
@@ -20,3 +26,4 @@ Most teams treat _development speed_ as their bottleneck, but the real constra
 
 - Contrast with [[Outputs over outcomes]]: Project teams prioritize "done" over learning.
 - Supports [[Stable teams gain more with AI]]: AI accelerates execution, but only teams with context can direct it wisely.
+- Explains [[Look for leverage]]: learning continuity is what makes leverage sustainable — without persistent context, you can't find where the system actually bends.

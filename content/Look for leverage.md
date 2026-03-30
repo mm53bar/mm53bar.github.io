@@ -3,6 +3,12 @@ sources:
   - "[[Clippings/TBM 232- Leverage and Benefit Types - by John Cutler|TBM 232- Leverage and Benefit Types - by John Cutler]]"
 publish: true
 tags: [evergreen]
+similar:
+  - Learning as a business strategy (0.79)
+  - Products over projects (0.79)
+  - Justin Ng (0.79)
+  - Letting Ryan go (0.79)
+  - Software Development Principles (0.79)
 ---
 True leverage emerges when you match your effort to how the system _actually_ benefits. Most teams optimize for **local efficiencies** (e.g., faster deploys) while ignoring whether those improvements unlock **systemic outcomes** (e.g., higher retention). This explains why [[Learning is the constraint]]—you need deep context to spot where leverage really lives.
 
