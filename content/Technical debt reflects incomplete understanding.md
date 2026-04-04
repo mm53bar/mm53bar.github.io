@@ -3,6 +3,12 @@ sources:
   - "[[Clippings/Technical debt as a lack of understanding|Technical debt as a lack of understanding]]"
 publish: true
 tags: [evergreen]
+similar:
+  - Technical debt as a lack of understanding (0.80)
+  - Products over projects (0.80)
+  - Learning as a business strategy (0.79)
+  - Kim (0.79)
+  - Railway.app (0.79)
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.
 

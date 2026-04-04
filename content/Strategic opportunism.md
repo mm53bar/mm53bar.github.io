@@ -4,6 +4,12 @@ sources:
   - "[[Clippings/The Tactics of Strategic Opportunism|The Tactics of Strategic Opportunism]]"
 publish: true
 tags: [evergreen]
+similar:
+  - Concurrent Web Crawling in Ruby with Async  Los Angeles AI Apps (0.79)
+  - The Tactics of Strategic Opportunism (0.79)
+  - Strategic opportunism (0.79)
+  - Notes for Thinkific Video Interview (0.79)
+  - Scott and Shauna (0.79)
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:
 

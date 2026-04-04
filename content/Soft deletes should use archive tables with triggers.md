@@ -5,6 +5,12 @@ sources:
   - "[[Clippings/The challenges of soft delete]]"
 publish: true
 tags: [evergreen]
+similar:
+  - PostgreSQL triggers automate deletion archival (0.81)
+  - Archive tables separate deleted data from live tables (0.81)
+  - deleted_at columns create query complexity (0.80)
+  - Computer Hardware Purchases (0.79)
+  - Incremental authorization flow (0.79)
 ---
 
 For soft deletion, use a single archive table that automatically captures deletions via PostgreSQL triggers.

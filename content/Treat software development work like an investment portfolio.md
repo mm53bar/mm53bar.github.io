@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
+  - Is High Quality Software Worth the Cost? (0.79)
   - Short-term vs Long-term (0.79)
-  - Products over projects (0.79)
-  - Strategic opportunism (0.79)
-  - Unlocking high software engineering pace Drive adoption of AI (0.79)
-  - Kim Wu (0.79)
+  - Role of a product manager at a small startup (0.79)
+  - VanHack hiring (0.79)
+  - Products Over Projects (0.79)
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.
 
