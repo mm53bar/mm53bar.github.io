@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Learning as a business strategy (0.80)
   - Technical debt reflects incomplete understanding (0.80)
-  - UX Is Your Moat (And You’re Ignoring It) (0.80)
-  - Look for leverage (0.79)
-  - TeamOps (0.79)
+  - Look for leverage (0.80)
+  - Products Over Projects (0.80)
+  - The Tactics of Strategic Opportunism (0.80)
+  - Phil Darch (0.80)
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:
 

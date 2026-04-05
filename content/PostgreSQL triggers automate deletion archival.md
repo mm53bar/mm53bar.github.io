@@ -6,10 +6,10 @@ publish: true
 tags: [evergreen]
 similar:
   - Soft deletes should use archive tables with triggers (0.81)
-  - Archive tables separate deleted data from live tables (0.81)
+  - Archive tables separate deleted data from live tables (0.80)
   - deleted_at columns create query complexity (0.80)
-  - The challenges of soft delete (0.79)
-  - How to use links (0.79)
+  - Bin Rental for garbage (0.79)
+  - learning is the constraint (0.79)
 ---
 
 PostgreSQL triggers can automatically capture deleted rows and store them in an archive table, requiring zero application code changes.

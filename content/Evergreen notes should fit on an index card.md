@@ -7,10 +7,10 @@ sources:
 publish: true
 similar:
   - README (0.80)
-  - ebook downloads (0.80)
   - Synthesis notes connect atomic notes into actionable strategies (0.80)
+  - Note titles should match how you'll search for them (0.79)
+  - Walk Your Butt Off (0.79)
   - AGENTS (0.79)
-  - How to use links (0.79)
 ---
 
 Each evergreen note should fit on a single index card—roughly 3-4 paragraphs maximum. This constraint forces clarity and prevents notes from becoming mini blog articles.

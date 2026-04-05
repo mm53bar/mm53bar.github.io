@@ -7,9 +7,9 @@ sources:
 publish: true
 similar:
   - Note titles should match how you'll search for them (0.80)
+  - README (0.80)
   - Synthesis notes connect atomic notes into actionable strategies (0.80)
-  - README (0.79)
-  - Evergreen notes should fit on an index card (0.79)
+  - The Tactics of Strategic Opportunism (0.79)
   - tags (0.79)
 ---
 

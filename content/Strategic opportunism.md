@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Concurrent Web Crawling in Ruby with Async  Los Angeles AI Apps (0.79)
-  - The Tactics of Strategic Opportunism (0.79)
-  - Strategic opportunism (0.79)
-  - Notes for Thinkific Video Interview (0.79)
-  - Scott and Shauna (0.79)
+  - Look for leverage (0.80)
+  - Strategic opportunism (0.80)
+  - Learning as a business strategy (0.80)
+  - Products over projects (0.79)
+  - HP's Innovation Spirit and How It Died (0.79)
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:
 

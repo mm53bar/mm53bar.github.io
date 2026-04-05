@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - Products over projects (0.79)
-  - architecture decisions (0.79)
-  - Treat software development work like an investment portfolio (0.79)
-  - sideline.ca (0.79)
-  - Adding features makes it hard to add features (0.79)
+  - Adding features makes it hard to add features (0.80)
+  - Learning as a business strategy (0.80)
+  - Technical debt as a lack of understanding (0.79)
+  - Look for leverage (0.79)
+  - Fixtures and Factories (0.79)
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:
 

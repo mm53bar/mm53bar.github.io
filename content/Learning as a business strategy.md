@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products over projects (0.80)
-  - Technical debt reflects incomplete understanding (0.79)
-  - Synthesis notes connect atomic notes into actionable strategies (0.79)
-  - Notes for Thinkific Video Interview (0.79)
-  - Address already in use (0.79)
+  - Short-term vs Long-term (0.80)
+  - Technical debt reflects incomplete understanding (0.80)
+  - RFC (0.80)
+  - Strategic opportunism (0.80)
+  - Three things GenAI will not change about software delivery - Thoughtworks (0.80)
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:
 
