@@ -4,11 +4,12 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
+  - Developers spend most of their time figuring out systems (0.80)
   - Learning as a business strategy (0.79)
-  - UX Is Your Moat (And You’re Ignoring It) (0.79)
-  - Products over projects (0.79)
-  - Talking to Bruce about DREAM value (0.79)
-  - Shopify Initial Call (0.79)
+  - Developers spend most of their time figuring the system out (0.79)
+  - Look for leverage (0.79)
+  - Mikrotik Hex (0.79)
+compiled: 2026-04-06
 ---
 The real difficulty in large systems isn’t writing new code—it’s discovering all the implicit contracts your feature must honour with existing ones. When Google Docs adds emoji reactions, the effort goes into edge cases: Will this break offline mode’s conflict resolution? Does comment history need to track reaction edits? These aren’t coordination problems but emergent interface negotiations, where every existing feature owns undocumented rules.
 

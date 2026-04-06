@@ -7,10 +7,11 @@ sources:
 publish: true
 similar:
   - README (0.80)
+  - Note titles should match how you'll search for them (0.80)
   - Synthesis notes connect atomic notes into actionable strategies (0.80)
-  - Note titles should match how you'll search for them (0.79)
-  - Walk Your Butt Off (0.79)
-  - AGENTS (0.79)
+  - Evergreen notes (0.80)
+  - Ideas for Loop structure in Nightingale (0.80)
+compiled: 2026-04-06
 ---
 
 Each evergreen note should fit on a single index card—roughly 3-4 paragraphs maximum. This constraint forces clarity and prevents notes from becoming mini blog articles.

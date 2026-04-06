@@ -6,11 +6,12 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Archive tables separate deleted data from live tables (0.81)
   - PostgreSQL triggers automate deletion archival (0.81)
   - deleted_at columns create query complexity (0.80)
-  - The challenges of soft delete (0.79)
-  - Products over projects (0.79)
+  - Archive tables separate deleted data from live tables (0.80)
+  - The challenges of soft delete (0.80)
+  - System tests have failed (0.79)
+compiled: 2026-04-06
 ---
 
 For soft deletion, use a single archive table that automatically captures deletions via PostgreSQL triggers.

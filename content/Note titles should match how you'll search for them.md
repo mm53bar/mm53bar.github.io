@@ -7,11 +7,12 @@ sources:
   - "[[Evergreen notes should be concept-oriented]]"
 publish: true
 similar:
-  - Synthesis notes connect atomic notes into actionable strategies (0.81)
+  - Atomic notes can transcend their original context (0.81)
+  - Evergreen notes should fit on an index card (0.80)
+  - Synthesis notes connect atomic notes into actionable strategies (0.80)
+  - AGENTS (0.80)
   - README (0.80)
-  - Atomic notes can transcend their original context (0.80)
-  - Archive tables separate deleted data from live tables (0.79)
-  - Evergreen notes should fit on an index card (0.79)
+compiled: 2026-04-06
 ---
 
 Note titles should balance concept-orientation with practical discoverability—you need to find them when making decisions.

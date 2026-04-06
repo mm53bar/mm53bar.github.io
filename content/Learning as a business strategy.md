@@ -5,11 +5,12 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Short-term vs Long-term (0.80)
-  - Technical debt reflects incomplete understanding (0.80)
-  - RFC (0.80)
-  - Strategic opportunism (0.80)
-  - Three things GenAI will not change about software delivery - Thoughtworks (0.80)
+  - Products over projects (0.80)
+  - Adding features makes it hard to add features (0.80)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Mindable Interview (0.80)
+  - fullscript cover letter (0.80)
+compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:
 

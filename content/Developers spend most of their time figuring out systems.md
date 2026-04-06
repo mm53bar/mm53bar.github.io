@@ -3,11 +3,12 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - Adding features makes it hard to add features (0.80)
+  - Look for leverage (0.80)
   - Learning as a business strategy (0.80)
-  - Technical debt as a lack of understanding (0.79)
-  - Look for leverage (0.79)
-  - Fixtures and Factories (0.79)
+  - Developers spend most of their time figuring the system out (0.80)
+  - Han Zhang (0.79)
+  - Talking to Bruce about DREAM value (0.79)
+compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:
 

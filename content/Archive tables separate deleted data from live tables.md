@@ -5,11 +5,12 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - deleted_at columns create query complexity (0.81)
-  - PostgreSQL triggers automate deletion archival (0.81)
-  - Soft deletes should use archive tables with triggers (0.81)
-  - The challenges of soft delete (0.80)
-  - learning is the constraint (0.80)
+  - PostgreSQL triggers automate deletion archival (0.80)
+  - Soft deletes should use archive tables with triggers (0.80)
+  - deleted_at columns create query complexity (0.80)
+  - The challenges of soft delete (0.79)
+  - Granify (0.79)
+compiled: 2026-04-06
 ---
 
 Storing deleted records in a separate table (rather than flagging them with `deleted_at`) keeps live data clean and queries simple.

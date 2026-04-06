@@ -6,11 +6,12 @@ sources:
   - "[[Evergreen notes should be concept-oriented]]"
 publish: true
 similar:
-  - Note titles should match how you'll search for them (0.80)
+  - Note titles should match how you'll search for them (0.81)
   - README (0.80)
   - Synthesis notes connect atomic notes into actionable strategies (0.80)
   - The Tactics of Strategic Opportunism (0.79)
-  - tags (0.79)
+  - Evergreen notes (0.79)
+compiled: 2026-04-06
 ---
 
 Atomic notes factored by concept (not by source or project) can connect across unexpected domains, revealing insights invisible in context-specific notes.
