@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Soft deletes should use archive tables with triggers (0.81)
-  - Archive tables separate deleted data from live tables (0.80)
+  - Archive tables separate deleted data from live tables (0.81)
+  - Soft deletes should use archive tables with triggers (0.80)
+  - The challenges of soft delete (0.80)
+  - Claude Cowork demo (0.79)
   - deleted_at columns create query complexity (0.79)
-  - System tests have failed (0.79)
-  - Synthesis notes connect atomic notes into actionable strategies (0.79)
 compiled: 2026-04-06
 ---
 

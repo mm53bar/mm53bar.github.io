@@ -6,11 +6,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - PostgreSQL triggers automate deletion archival (0.81)
+  - Archive tables separate deleted data from live tables (0.81)
+  - PostgreSQL triggers automate deletion archival (0.80)
   - deleted_at columns create query complexity (0.80)
-  - Archive tables separate deleted data from live tables (0.80)
-  - The challenges of soft delete (0.80)
-  - System tests have failed (0.79)
+  - The challenges of soft delete (0.79)
+  - Atomic notes can transcend their original context (0.79)
 compiled: 2026-04-06
 ---
 

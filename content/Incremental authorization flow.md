@@ -4,10 +4,10 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Improve your AI code output with AGENTS.md (+ my best tips) (0.79)
-  - I Love Generative AI and Hate the Companies Building It (0.79)
-  - Salary bands (0.79)
-  - Bin Rental for garbage (0.79)
-  - Rails ActiveRecord JSON cheatsheet (0.79)
+  - Docker for Rails (0.79)
+  - tutorial-how-to-juggle-4-balls---instructional-video (0.79)
+  - Han Zhang (0.79)
+  - +Living Room TV (0.79)
+  - Rewrite your Software (0.79)
 ---
 An authorization style that Google encourages where you initially only request the minimal scopes from a user (ie name and email), then re-request more scopes as needed

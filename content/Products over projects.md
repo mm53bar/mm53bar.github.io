@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Learning as a business strategy (0.80)
-  - Technical debt reflects incomplete understanding (0.80)
-  - Technical debt as a lack of understanding (0.80)
-  - Jed (0.80)
-  - Look for leverage (0.80)
+  - Products Over Projects (0.80)
+  - Treat software development work like an investment portfolio (0.80)
+  - Big Bets (0.80)
+  - marksy drag and drop UI (0.80)
+  - Adding features makes it hard to add features (0.80)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Strategic opportunism (0.80)
-  - The Tactics of Strategic Opportunism (0.79)
-  - Synthesis notes connect atomic notes into actionable strategies (0.79)
-  - Zen of AI Coding (0.79)
-  - Look for leverage (0.79)
+  - Learning as a business strategy (0.80)
+  - The Tactics of Strategic Opportunism (0.80)
+  - Strategic opportunism (0.79)
+  - Products over projects (0.79)
+  - Two Way Doors (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

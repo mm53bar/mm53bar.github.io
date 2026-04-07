@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Technical debt as a lack of understanding (0.80)
-  - Products over projects (0.80)
-  - System tests have failed (0.79)
-  - ULA Circuit (0.79)
-  - Notes for Thinkific Video Interview (0.79)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Products over projects (0.79)
+  - Introducing Deliberate Discovery (0.79)
+  - Technical debt as a lack of understanding (0.79)
+  - Why frozen test fixtures are a problem on large projects and how to avoid them (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.
