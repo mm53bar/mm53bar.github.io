@@ -4,10 +4,10 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Docker for Rails (0.79)
-  - tutorial-how-to-juggle-4-balls---instructional-video (0.79)
-  - Han Zhang (0.79)
-  - +Living Room TV (0.79)
-  - Rewrite your Software (0.79)
+  - Talking to Ashley about It's the People value (0.79)
+  - How to Remove the DRM on Any Ebook You Own (0.79)
+  - White noise on iPhone (0.79)
+  - The End of Programming as We Know It (0.79)
+  - durston-x-mid-pitching-guide-v2 (0.79)
 ---
 An authorization style that Google encourages where you initially only request the minimal scopes from a user (ie name and email), then re-request more scopes as needed

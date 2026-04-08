@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Developers spend most of their time figuring out systems (0.80)
-  - Products over projects (0.79)
-  - Introducing Deliberate Discovery (0.79)
-  - Technical debt as a lack of understanding (0.79)
-  - Why frozen test fixtures are a problem on large projects and how to avoid them (0.79)
+  - Railway.app (0.80)
+  - peanut-noodles-dinner-recipe-for-camping-backpacking (0.79)
+  - Thoughts on product vs project (0.79)
+  - Phil Darch (0.79)
+  - Roles of VPE and CTO (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

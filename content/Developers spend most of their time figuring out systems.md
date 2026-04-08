@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - Technical debt reflects incomplete understanding (0.80)
-  - Products over projects (0.79)
-  - Adding features makes it hard to add features (0.79)
-  - Atomic notes can transcend their original context (0.79)
-  - manager readme (0.79)
+  - Beautiful Rails confirmation dialogs (with zero JavaScript) (0.80)
+  - Products over projects (0.80)
+  - Strathcom Tech Radar (0.79)
+  - Technical debt as a lack of understanding (0.79)
+  - It's OK to hardcode feature flags (0.79)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

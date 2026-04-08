@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Learning as a business strategy (0.80)
-  - Note titles should match how you'll search for them (0.79)
-  - System tests have failed (0.79)
   - Developers spend most of their time figuring out systems (0.79)
-  - Thread by @karpathy (0.79)
+  - Role of a product manager at a small startup (0.79)
+  - Investopedia (0.79)
+  - Technical debt reflects incomplete understanding (0.79)
+  - you-need-to-try-these-open-source-ai-projects-right-now (0.79)
 compiled: 2026-04-06
 ---
 The real difficulty in large systems isn’t writing new code—it’s discovering all the implicit contracts your feature must honour with existing ones. When Google Docs adds emoji reactions, the effort goes into edge cases: Will this break offline mode’s conflict resolution? Does comment history need to track reaction edits? These aren’t coordination problems but emergent interface negotiations, where every existing feature owns undocumented rules.

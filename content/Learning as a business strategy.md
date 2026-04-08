@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Strategic opportunism (0.80)
-  - Look for leverage (0.79)
-  - Values and Principles (0.79)
-  - Products over projects (0.79)
-  - Han Zhang (0.79)
+  - Introducing Deliberate Discovery (0.80)
+  - Products over projects (0.80)
+  - Treat software development work like an investment portfolio (0.79)
+  - Talking to Ashley about It's the People value (0.79)
+  - Investing in Internal Documentation A Brick-by-Brick Guide for Startups (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

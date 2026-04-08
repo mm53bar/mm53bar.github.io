@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - Note titles should match how you'll search for them (0.80)
-  - README (0.80)
   - Atomic notes can transcend their original context (0.80)
-  - Evergreen notes should fit on an index card (0.79)
-  - deleted_at columns create query complexity (0.79)
+  - README (0.80)
+  - Evergreen notes should fit on an index card (0.80)
+  - Note titles should match how you'll search for them (0.80)
+  - The challenges of soft delete (0.79)
 compiled: 2026-04-06
 ---
 

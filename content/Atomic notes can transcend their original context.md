@@ -6,11 +6,11 @@ sources:
   - "[[Evergreen notes should be concept-oriented]]"
 publish: true
 similar:
-  - Note titles should match how you'll search for them (0.81)
-  - README (0.80)
+  - README (0.81)
+  - Note titles should match how you'll search for them (0.80)
   - Synthesis notes connect atomic notes into actionable strategies (0.80)
-  - The Tactics of Strategic Opportunism (0.79)
-  - Evergreen notes (0.79)
+  - Evergreen notes should fit on an index card (0.80)
+  - How to use links (0.80)
 compiled: 2026-04-06
 ---
 

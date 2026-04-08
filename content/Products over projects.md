@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products Over Projects (0.80)
-  - Treat software development work like an investment portfolio (0.80)
-  - Big Bets (0.80)
-  - marksy drag and drop UI (0.80)
-  - Adding features makes it hard to add features (0.80)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Learning as a business strategy (0.80)
+  - How to Stop Endless Discussions (0.79)
+  - Technical debt as a lack of understanding (0.79)
+  - bookmarks (0.79)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

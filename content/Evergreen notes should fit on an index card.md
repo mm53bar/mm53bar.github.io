@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
+  - Atomic notes can transcend their original context (0.80)
   - README (0.80)
-  - Synthesis notes connect atomic notes into actionable strategies (0.79)
+  - Synthesis notes connect atomic notes into actionable strategies (0.80)
+  - How to use links (0.79)
   - Note titles should match how you'll search for them (0.79)
-  - Atomic notes can transcend their original context (0.79)
-  - Why frozen test fixtures are a problem on large projects and how to avoid them (0.79)
 compiled: 2026-04-06
 ---
 
