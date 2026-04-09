@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
+  - Note titles should match how you'll search for them (0.81)
   - Atomic notes can transcend their original context (0.80)
-  - README (0.80)
   - Synthesis notes connect atomic notes into actionable strategies (0.80)
-  - How to use links (0.79)
-  - Note titles should match how you'll search for them (0.79)
+  - README (0.80)
+  - Building Blocks of a Zettelkasten (0.80)
 compiled: 2026-04-06
 ---
 

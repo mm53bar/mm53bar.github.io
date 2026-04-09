@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Developers spend most of their time figuring out systems (0.80)
-  - Learning as a business strategy (0.80)
-  - How to Stop Endless Discussions (0.79)
-  - Technical debt as a lack of understanding (0.79)
-  - bookmarks (0.79)
+  - Products Over Projects (0.80)
+  - Look for leverage (0.80)
+  - Stable teams gain more with AI (0.80)
+  - Continuous Review (0.80)
+  - Thoughts on product vs project (0.80)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

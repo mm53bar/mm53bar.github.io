@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Strategic opportunism (0.79)
-  - Look for leverage (0.79)
-  - Products over projects (0.79)
-  - Railway.app (0.79)
-  - The End of Programming as We Know It (0.79)
+  - The Tactics of Strategic Opportunism (0.79)
+  - TeamOps (0.79)
+  - The real purpose of team sports for children (0.79)
+  - Maximal effort, minimal impact- How I learned what engineering guidelines should be like - Antoni... (0.79)
+  - Guiding principle cross-pollination over imposed standards (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

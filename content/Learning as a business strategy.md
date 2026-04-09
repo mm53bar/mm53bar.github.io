@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Introducing Deliberate Discovery (0.80)
-  - Products over projects (0.80)
-  - Treat software development work like an investment portfolio (0.79)
-  - Talking to Ashley about It's the People value (0.79)
-  - Investing in Internal Documentation A Brick-by-Brick Guide for Startups (0.79)
+  - Products over projects (0.79)
+  - Mindable Interview (0.79)
+  - Service objects are poorly-named models (0.79)
+  - the-30-greatest-film-challenge-30-1 (0.79)
+  - The Agentic AI Handbook Production-Ready Patterns - Log - nibzard (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

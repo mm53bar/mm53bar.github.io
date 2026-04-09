@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - Beautiful Rails confirmation dialogs (with zero JavaScript) (0.80)
-  - Products over projects (0.80)
-  - Strathcom Tech Radar (0.79)
-  - Technical debt as a lack of understanding (0.79)
-  - It's OK to hardcode feature flags (0.79)
+  - Supercharging Claude Code with the Right (CLI) Tools (0.79)
+  - Toyota Suffered a Data Breach by Accidentally Exposing A Secret Key Publicly On GitHub (0.79)
+  - Bottleneck 03 Product v Engineering (0.79)
+  - Stable teams gain more with AI (0.79)
+  - Adding features makes it hard to add features (0.79)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:
