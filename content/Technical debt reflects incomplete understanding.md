@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Railway.app (0.80)
-  - peanut-noodles-dinner-recipe-for-camping-backpacking (0.79)
-  - Thoughts on product vs project (0.79)
-  - Phil Darch (0.79)
-  - Roles of VPE and CTO (0.79)
+  - Thoughts on product vs project (0.80)
+  - Building Blocks of a Zettelkasten (0.80)
+  - Wicked Blocks (0.79)
+  - Against best practices (0.79)
+  - Vertical City Paystub encryption (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

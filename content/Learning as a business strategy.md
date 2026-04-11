@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products over projects (0.79)
-  - Mindable Interview (0.79)
-  - Service objects are poorly-named models (0.79)
-  - the-30-greatest-film-challenge-30-1 (0.79)
-  - The Agentic AI Handbook Production-Ready Patterns - Log - nibzard (0.79)
+  - Look for leverage (0.80)
+  - What is this -product- you speak of- (0.79)
+  - The End of Programming as We Know It (0.79)
+  - Deep Work- The Complete Guide -Including a Step-by-Step Checklist- (0.79)
+  - My take on why goal cascades are harmful and what to do instead (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

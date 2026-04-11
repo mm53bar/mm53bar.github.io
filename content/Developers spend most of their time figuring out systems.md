@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - Supercharging Claude Code with the Right (CLI) Tools (0.79)
-  - Toyota Suffered a Data Breach by Accidentally Exposing A Secret Key Publicly On GitHub (0.79)
-  - Bottleneck 03 Product v Engineering (0.79)
-  - Stable teams gain more with AI (0.79)
-  - Adding features makes it hard to add features (0.79)
+  - Products over projects (0.80)
+  - The Agentic AI Handbook Production-Ready Patterns - Log - nibzard (0.80)
+  - 5-line code review vs 5000-line code review (0.80)
+  - guild (0.80)
+  - First 30 days at Vertical City (0.80)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

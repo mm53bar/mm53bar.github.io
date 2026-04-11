@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products Over Projects (0.80)
-  - Look for leverage (0.80)
-  - Stable teams gain more with AI (0.80)
-  - Continuous Review (0.80)
-  - Thoughts on product vs project (0.80)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Product teams own capabilities- not -only- code- (0.79)
+  - add-drawers-to-your-project-easily-basics-of-building-diy (0.79)
+  - Products Over Projects (0.79)
+  - guild (0.79)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

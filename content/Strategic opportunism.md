@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - The Tactics of Strategic Opportunism (0.79)
-  - TeamOps (0.79)
-  - The real purpose of team sports for children (0.79)
-  - Maximal effort, minimal impact- How I learned what engineering guidelines should be like - Antoni... (0.79)
-  - Guiding principle cross-pollination over imposed standards (0.79)
+  - Sustainable Web Development with Rails Book (0.79)
+  - Incremental authorization flow (0.79)
+  - Parks Canada past reservations (0.79)
+  - The Secret Power of ‘Read It Later’ Apps (0.79)
+  - You-re not just a manager- you-re also a boss (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

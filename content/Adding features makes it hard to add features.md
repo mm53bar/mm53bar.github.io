@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Maximizing Developer Effectiveness (0.79)
+  - Why are big tech companies so slow? (0.80)
   - Developers spend most of their time figuring out systems (0.79)
-  - Unlocking high software engineering pace Drive adoption of AI (0.79)
-  - Big Bets (0.79)
-  - Three-Bucket Framework for Engineering Metrics (0.79)
+  - Phil Darch (0.79)
+  - Learning as a business strategy (0.79)
+  - Strathcom Tech Radar (0.79)
 compiled: 2026-04-06
 ---
 The real difficulty in large systems isn’t writing new code—it’s discovering all the implicit contracts your feature must honour with existing ones. When Google Docs adds emoji reactions, the effort goes into edge cases: Will this break offline mode’s conflict resolution? Does comment history need to track reaction edits? These aren’t coordination problems but emergent interface negotiations, where every existing feature owns undocumented rules.

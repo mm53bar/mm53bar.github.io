@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Short-term vs Long-term (0.80)
-  - Learning as a business strategy (0.79)
-  - Shopify Values (0.79)
-  - Introducing Deliberate Discovery (0.79)
-  - Reduce uncertainty by treating development work as experiments (0.79)
+  - Big Bets (0.80)
+  - Business Capability Centric (0.80)
+  - Developers spend most of their time figuring out systems (0.79)
+  - Products Over Projects (0.79)
+  - Ryan Leland (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

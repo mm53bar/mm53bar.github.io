@@ -7,11 +7,11 @@ sources:
   - "[[Evergreen notes should be concept-oriented]]"
 publish: true
 similar:
+  - Atomic notes can transcend their original context (0.81)
   - Evergreen notes should fit on an index card (0.81)
-  - Atomic notes can transcend their original context (0.80)
-  - Synthesis notes connect atomic notes into actionable strategies (0.80)
+  - An Opinionated Guide To Handling Pull Requests (0.80)
   - Evergreen notes should be concept-oriented (0.80)
-  - README (0.79)
+  - Automate repetitive tasks with custom git commands (0.80)
 compiled: 2026-04-06
 ---
 
