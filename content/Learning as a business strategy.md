@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Look for leverage (0.80)
-  - What is this -product- you speak of- (0.79)
-  - The End of Programming as We Know It (0.79)
-  - Deep Work- The Complete Guide -Including a Step-by-Step Checklist- (0.79)
-  - My take on why goal cascades are harmful and what to do instead (0.79)
+  - domains (0.80)
+  - Reduce uncertainty by treating development work as experiments (0.79)
+  - Career Goals (0.79)
+  - How to Stop Endless Discussions (0.79)
+  - Mt Kidd RV Park (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

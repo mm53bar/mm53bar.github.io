@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Learning as a business strategy (0.80)
-  - Stable teams compound knowledge into market advantage (0.80)
-  - Developers spend most of their time figuring out systems (0.79)
-  - Opportunities for Growth (0.79)
-  - Guide to Internal Communication- the Basecamp Way (0.79)
+  - What Fast-Moving Companies Do Differently (0.80)
+  - fullscript cover letter (0.79)
+  - Against best practices (0.79)
+  - TELUS Optik (0.79)
+  - Why I Built Litestream (0.79)
 compiled: 2026-04-06
 ---
 True leverage emerges when you match your effort to how the system _actually_ benefits. Most teams optimize for **local efficiencies** (e.g., faster deploys) while ignoring whether those improvements unlock **systemic outcomes** (e.g., higher retention). This explains why [[Learning is the constraint]]—you need deep context to spot where leverage really lives.
