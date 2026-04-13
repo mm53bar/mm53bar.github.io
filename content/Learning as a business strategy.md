@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - domains (0.80)
-  - Reduce uncertainty by treating development work as experiments (0.79)
-  - Career Goals (0.79)
-  - How to Stop Endless Discussions (0.79)
-  - Mt Kidd RV Park (0.79)
+  - Strathcom Tech Radar (0.80)
+  - ankle swelling (0.79)
+  - I long for the day that Google Tag Manager ceases to exist - r-webdev (0.79)
+  - Ashley (0.79)
+  - Talent is largely a myth (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

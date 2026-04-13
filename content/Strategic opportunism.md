@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Sustainable Web Development with Rails Book (0.79)
-  - Incremental authorization flow (0.79)
-  - Parks Canada past reservations (0.79)
-  - The Secret Power of ‘Read It Later’ Apps (0.79)
-  - You-re not just a manager- you-re also a boss (0.79)
+  - Even overs- The prioritization tool that brings your strategy to life (0.80)
+  - Products over projects (0.80)
+  - Decided to put Raptor Liner on the tongue box and fenders this weekend. (0.80)
+  - Strathcom Tech Radar (0.79)
+  - ssh (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

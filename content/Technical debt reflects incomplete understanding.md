@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Thoughts on product vs project (0.80)
-  - Building Blocks of a Zettelkasten (0.80)
-  - Wicked Blocks (0.79)
-  - Against best practices (0.79)
-  - Vertical City Paystub encryption (0.79)
+  - ai-wont-fix-the-fundamental-flaw-of-programming (0.80)
+  - The Plain Text Life (0.80)
+  - Disadvantages of Pull Requests (0.80)
+  - Quotebacks (0.79)
+  - How Our VP of Engineering Used Data to Support Our Engineering Team on a Human Level (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.
