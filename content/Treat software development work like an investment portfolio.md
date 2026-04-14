@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - 5-underrated-docker-containers-that-make-life-easier (0.79)
-  - Reduce uncertainty by treating development work as experiments (0.79)
-  - Agility - Speed (0.79)
-  - Vertical City Product Development Objective (0.79)
-  - Vertical City Dev Performance Reviews (0.79)
+  - Big Bets (0.79)
+  - Don't End The Week With Nothing (0.79)
+  - Learning as a business strategy (0.79)
+  - Bottleneck 03 Product v Engineering (0.79)
+  - Product Thinking vs- Project Thinking (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

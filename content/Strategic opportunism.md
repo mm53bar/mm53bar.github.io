@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Even overs- The prioritization tool that brings your strategy to life (0.80)
   - Products over projects (0.80)
-  - Decided to put Raptor Liner on the tongue box and fenders this weekend. (0.80)
-  - Strathcom Tech Radar (0.79)
-  - ssh (0.79)
+  - sheila (0.80)
+  - You don’t need services (whatever this word means) - Grainy dinosaurs (0.79)
+  - maildrop-self-hosted-disposable-email-made-simple (0.79)
+  - Investopedia (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

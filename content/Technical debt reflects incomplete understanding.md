@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - ai-wont-fix-the-fundamental-flaw-of-programming (0.80)
-  - The Plain Text Life (0.80)
-  - Disadvantages of Pull Requests (0.80)
-  - Quotebacks (0.79)
-  - How Our VP of Engineering Used Data to Support Our Engineering Team on a Human Level (0.79)
+  - Trello- -Jira Sucks- and Tool Dysfunction (0.80)
+  - What is this -product- you speak of- (0.80)
+  - Adding features makes it hard to add features (0.80)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Learning as a business strategy (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.
