@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Big Bets (0.79)
-  - Don't End The Week With Nothing (0.79)
-  - Learning as a business strategy (0.79)
+  - Zen of AI Coding (0.79)
+  - tom-danielson-talks-with-brendan-brazier-the-formula-for-success-abc (0.79)
   - Bottleneck 03 Product v Engineering (0.79)
-  - Product Thinking vs- Project Thinking (0.79)
+  - Encouraging a Culture of Written Communication (0.79)
+  - 2025 Talent Mapping at Vertical City (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

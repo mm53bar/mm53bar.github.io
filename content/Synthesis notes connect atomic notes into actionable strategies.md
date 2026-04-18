@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - Atomic notes can transcend their original context (0.80)
-  - Evergreen notes should be concept-oriented (0.79)
-  - Note titles should match how you'll search for them (0.79)
-  - Evergreen notes should fit on an index card (0.79)
-  - README (0.79)
+  - README (0.80)
+  - Note titles should match how you'll search for them (0.80)
+  - PostgreSQL triggers automate deletion archival (0.80)
+  - Soft deletes should use archive tables with triggers (0.80)
+  - Learning as a business strategy (0.79)
 compiled: 2026-04-06
 ---
 

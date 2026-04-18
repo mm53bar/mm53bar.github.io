@@ -8,10 +8,10 @@ sources:
 publish: true
 similar:
   - Atomic notes can transcend their original context (0.81)
-  - Evergreen notes should be concept-oriented (0.81)
-  - README (0.79)
-  - how-to-use-a-multimeter-like-a-pro-the-ultimate-guide (0.79)
-  - Design System in Rails (0.79)
+  - Evergreen notes should fit on an index card (0.79)
+  - Synthesis notes connect atomic notes into actionable strategies (0.79)
+  - Evergreen notes should be concept-oriented (0.79)
+  - It's OK to hardcode feature flags (0.79)
 compiled: 2026-04-06
 ---
 

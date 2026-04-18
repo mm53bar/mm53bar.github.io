@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Strathcom Tech Radar (0.80)
-  - ankle swelling (0.79)
-  - I long for the day that Google Tag Manager ceases to exist - r-webdev (0.79)
-  - Ashley (0.79)
-  - Talent is largely a myth (0.79)
+  - Thoughts on product vs project (0.79)
+  - Google expects its staff to work from home until 2021 and it's not alone (0.79)
+  - Product teams own capabilities- not -only- code- (0.79)
+  - Products over projects (0.79)
+  - Cycle 1 (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

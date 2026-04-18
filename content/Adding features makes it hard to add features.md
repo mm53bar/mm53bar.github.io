@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Desperation-Induced Focus (0.79)
-  - Strategic opportunism (0.79)
-  - AI-assisted development (0.79)
+  - Rewrite your Software (0.79)
+  - Those pesky pull request reviews (0.79)
+  - Big Bets (0.79)
+  - No architecture is better than bad architecture (0.79)
   - Products over projects (0.79)
-  - WEATHER (0.79)
 compiled: 2026-04-06
 ---
 The real difficulty in large systems isn’t writing new code—it’s discovering all the implicit contracts your feature must honour with existing ones. When Google Docs adds emoji reactions, the effort goes into edge cases: Will this break offline mode’s conflict resolution? Does comment history need to track reaction edits? These aren’t coordination problems but emergent interface negotiations, where every existing feature owns undocumented rules.

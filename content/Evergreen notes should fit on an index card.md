@@ -7,10 +7,10 @@ sources:
 publish: true
 similar:
   - README (0.80)
-  - Atomic notes can transcend their original context (0.80)
-  - Evergreen notes should be concept-oriented (0.79)
-  - Camping Supplies (0.79)
-  - Evergreen notes (0.79)
+  - Synthesis notes connect atomic notes into actionable strategies (0.80)
+  - Atomic notes can transcend their original context (0.79)
+  - Note titles should match how you'll search for them (0.79)
+  - tags (0.79)
 compiled: 2026-04-06
 ---
 

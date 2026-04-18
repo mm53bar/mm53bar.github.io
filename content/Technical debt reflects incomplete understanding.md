@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Trello- -Jira Sucks- and Tool Dysfunction (0.80)
-  - What is this -product- you speak of- (0.80)
   - Adding features makes it hard to add features (0.80)
-  - Developers spend most of their time figuring out systems (0.80)
-  - Learning as a business strategy (0.79)
+  - Supercharging Claude Code with the Right (CLI) Tools (0.79)
+  - bluetti-ac200-powering-my-entire-van (0.79)
+  - GitLab Communication - Avoid Direct Messages (0.79)
+  - Code Is Not Technical Debt - Gavin D. Howard (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.
