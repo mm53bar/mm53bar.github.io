@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Zen of AI Coding (0.79)
-  - tom-danielson-talks-with-brendan-brazier-the-formula-for-success-abc (0.79)
-  - Bottleneck 03 Product v Engineering (0.79)
-  - Encouraging a Culture of Written Communication (0.79)
-  - 2025 Talent Mapping at Vertical City (0.79)
+  - Company, team, self. (0.79)
+  - Products over projects (0.79)
+  - TBM 232- Leverage and Benefit Types - by John Cutler (0.79)
+  - The next $1B consumer startup will be a vertical social network - here's why (0.79)
+  - Indigo co2 exchange at rona (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

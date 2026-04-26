@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Thoughts on product vs project (0.79)
-  - Build It Yourself (0.79)
-  - Products Over Projects (0.79)
-  - Stable teams gain more with AI (0.79)
-  - How Our VP of Engineering Used Data to Support Our Engineering Team on a Human Level (0.79)
+  - Products Over Projects (0.80)
+  - Strategic opportunism (0.80)
+  - Technical debt reflects incomplete understanding (0.80)
+  - Book Review- A Philosophy of Software Design (0.80)
+  - The Agentic AI Handbook Production-Ready Patterns - Log - nibzard (0.80)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

@@ -4,10 +4,10 @@ publish: true
 tags: [evergreen]
 similar:
   - OKRs from a development team’s perspective (0.80)
-  - First 30 days at Vertical City (0.80)
-  - Sustainable Web Development with Rails (0.80)
-  - clarity (0.79)
-  - Stable teams gain more with AI (0.79)
+  - Products over projects (0.79)
+  - The End of Programming as We Know It (0.79)
+  - Learning as a business strategy (0.79)
+  - How to build organizational resilience (0.79)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

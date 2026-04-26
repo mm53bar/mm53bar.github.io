@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Thoughts on product vs project (0.79)
-  - Google expects its staff to work from home until 2021 and it's not alone (0.79)
-  - Product teams own capabilities- not -only- code- (0.79)
-  - Products over projects (0.79)
-  - Cycle 1 (0.79)
+  - Adding features makes it hard to add features (0.80)
+  - Products over projects (0.80)
+  - Software Engineering Culture Metrics - How Do You Measure Culture- (0.80)
+  - Unlocking high software engineering pace Drive adoption of AI (0.80)
+  - Fostering a culture that values stability and reliability (0.80)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:
