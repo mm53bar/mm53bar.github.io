@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - Atomic notes can transcend their original context (0.80)
   - README (0.80)
-  - Synthesis notes connect atomic notes into actionable strategies (0.79)
-  - Note titles should match how you'll search for them (0.79)
-  - Head First Design Patterns - The Factory Pattern (0.79)
+  - Evergreen notes should be concept-oriented (0.80)
+  - The Ultimate Guide to Scaling Sidekiq (0.80)
+  - Synthesis notes connect atomic notes into actionable strategies (0.80)
+  - Meta Tags - Preview- Edit and Generate (0.80)
 compiled: 2026-04-06
 ---
 

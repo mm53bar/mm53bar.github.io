@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Company, team, self. (0.79)
+  - How do I progress to the next level in my career? - The Engineering Manager (0.79)
   - Products over projects (0.79)
-  - TBM 232- Leverage and Benefit Types - by John Cutler (0.79)
-  - The next $1B consumer startup will be a vertical social network - here's why (0.79)
-  - Indigo co2 exchange at rona (0.79)
+  - HP's Innovation Spirit and How It Died (0.79)
+  - Granify (0.79)
+  - Fruit Smoothie (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.
