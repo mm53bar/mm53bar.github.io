@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products Over Projects (0.80)
-  - Strategic opportunism (0.80)
-  - Technical debt reflects incomplete understanding (0.80)
-  - Book Review- A Philosophy of Software Design (0.80)
-  - The Agentic AI Handbook Production-Ready Patterns - Log - nibzard (0.80)
+  - Treat software development work like an investment portfolio (0.80)
+  - Role of a product manager at a small startup (0.80)
+  - Learning as a business strategy (0.80)
+  - clarity (0.79)
+  - Kim (0.79)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

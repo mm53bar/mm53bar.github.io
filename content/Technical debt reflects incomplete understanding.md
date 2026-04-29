@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products over projects (0.80)
-  - Opportunities for Growth (0.80)
-  - Vertical City Engineering Strategy using Claire Lew's Framework (0.80)
-  - Phil Darch (0.80)
-  - It's OK to hardcode feature flags (0.79)
+  - Technical debt as a lack of understanding (0.80)
+  - No Silver Bullet - essence and accident in software engineering (0.79)
+  - AMA (0.79)
+  - Jed (0.79)
+  - Building a Rails CI pipeline with GitHub Actions (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

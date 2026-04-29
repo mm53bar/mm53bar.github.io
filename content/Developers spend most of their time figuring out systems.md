@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - OKRs from a development team’s perspective (0.80)
-  - Products over projects (0.79)
-  - The End of Programming as We Know It (0.79)
-  - Learning as a business strategy (0.79)
-  - How to build organizational resilience (0.79)
+  - Stable teams compound institutional knowledge (0.80)
+  - Treat software development work like an investment portfolio (0.80)
+  - The Tactics of Strategic Opportunism (0.79)
+  - GitLab Handbook Usage (0.79)
+  - NGINX Config (0.79)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

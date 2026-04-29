@@ -6,11 +6,11 @@ sources:
   - "[[Evergreen notes should be concept-oriented]]"
 publish: true
 similar:
+  - Note titles should match how you'll search for them (0.81)
   - README (0.80)
+  - AGENTS (0.80)
   - Evergreen notes should be concept-oriented (0.80)
-  - Evergreen notes should fit on an index card (0.80)
-  - Note titles should match how you'll search for them (0.80)
-  - tags (0.80)
+  - Evergreen notes (0.80)
 compiled: 2026-04-06
 ---
 

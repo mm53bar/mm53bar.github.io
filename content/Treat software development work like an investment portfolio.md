@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - How do I progress to the next level in my career? - The Engineering Manager (0.79)
-  - Products over projects (0.79)
-  - HP's Innovation Spirit and How It Died (0.79)
-  - Granify (0.79)
-  - Fruit Smoothie (0.79)
+  - The Ultimate Guide to Scaling Sidekiq (0.80)
+  - Want to Be More Productive. Try Doing Less. (0.80)
+  - Strategic opportunism (0.80)
+  - Role of a product manager at a small startup (0.80)
+  - Products over projects (0.80)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

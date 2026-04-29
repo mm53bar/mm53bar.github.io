@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - deleted_at columns create query complexity (0.81)
-  - The challenges of soft delete (0.80)
+  - PostgreSQL triggers automate deletion archival (0.81)
+  - deleted_at columns create query complexity (0.80)
+  - Soft deletes should use separate archive tables with triggers (0.80)
   - Soft deletes should use archive tables with triggers (0.80)
-  - Soft Deletion Probably Isn't Worth It (0.80)
-  - PostgreSQL triggers automate deletion archival (0.80)
+  - The challenges of soft delete (0.79)
 compiled: 2026-04-06
 ---
 
