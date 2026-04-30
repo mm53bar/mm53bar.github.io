@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Stable teams gain more with AI (0.79)
-  - Thoughts on product vs project (0.79)
-  - regex (0.79)
-  - Moving off Heroku, slowly - Jamie’s blog (0.79)
-  - Data Overage ownership (0.79)
+  - Products over projects (0.80)
+  - Learning as a business strategy (0.79)
+  - Turbo considered harmful (0.79)
+  - Betterstimulus - Home (0.79)
+  - 2025 Talent Mapping at Vertical City (0.79)
 compiled: 2026-04-06
 ---
 True leverage emerges when you match your effort to how the system _actually_ benefits. Most teams optimize for **local efficiencies** (e.g., faster deploys) while ignoring whether those improvements unlock **systemic outcomes** (e.g., higher retention). This explains why [[Learning is the constraint]]—you need deep context to spot where leverage really lives.

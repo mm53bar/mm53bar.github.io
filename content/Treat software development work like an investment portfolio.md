@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - The Ultimate Guide to Scaling Sidekiq (0.80)
-  - Want to Be More Productive. Try Doing Less. (0.80)
-  - Strategic opportunism (0.80)
-  - Role of a product manager at a small startup (0.80)
-  - Products over projects (0.80)
+  - The Tactics of Strategic Opportunism (0.79)
+  - Google expects its staff to work from home until 2021 and it's not alone (0.79)
+  - Do OKRs work with Jobs to Be Done (0.79)
+  - Building Blocks of a Zettelkasten (0.79)
+  - Scott and Shauna (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

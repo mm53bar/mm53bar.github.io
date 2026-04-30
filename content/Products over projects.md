@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Treat software development work like an investment portfolio (0.80)
-  - Role of a product manager at a small startup (0.80)
   - Learning as a business strategy (0.80)
-  - clarity (0.79)
-  - Kim (0.79)
+  - Remote is Dead. Long Live Distributed. (0.80)
+  - Look for leverage (0.80)
+  - DJI Mini 2 (0.80)
+  - Thoughts on OKRs (0.80)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

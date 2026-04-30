@@ -5,10 +5,10 @@ publish: true
 tags: [evergreen]
 similar:
   - Technical debt as a lack of understanding (0.80)
-  - No Silver Bullet - essence and accident in software engineering (0.79)
-  - AMA (0.79)
-  - Jed (0.79)
-  - Building a Rails CI pipeline with GitHub Actions (0.79)
+  - Why write ADRs (0.79)
+  - Designing for Serial Task Switching (0.79)
+  - The Heart of Software Engineering Still Beats (0.79)
+  - Short-term vs Long-term (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.
