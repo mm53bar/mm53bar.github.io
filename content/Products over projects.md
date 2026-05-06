@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Learning as a business strategy (0.80)
-  - Remote is Dead. Long Live Distributed. (0.80)
-  - Look for leverage (0.80)
-  - DJI Mini 2 (0.80)
-  - Thoughts on OKRs (0.80)
+  - Adding features makes it hard to add features (0.80)
+  - Part III- Building A Second Brain - Using Notion and Roam Research (0.80)
+  - I Love Generative AI and Hate the Companies Building It (0.80)
+  - Engineering growth assessing progress (0.80)
+  - What Makes a Senior Engineer? Writing Software vs Building Systems (0.80)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

@@ -7,10 +7,10 @@ sources:
 publish: true
 similar:
   - Note titles should match how you'll search for them (0.81)
-  - README (0.80)
+  - Evergreen notes should fit on an index card (0.80)
   - tags (0.80)
-  - Evergreen notes should fit on an index card (0.79)
-  - Evergreen notes should be concept-oriented (0.79)
+  - README (0.80)
+  - How To Take Smart Notes - 10 Principles to Revolutionize Your Note-Taking and Writing (0.80)
 compiled: 2026-04-06
 ---
 

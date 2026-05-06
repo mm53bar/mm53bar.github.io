@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - Stable teams compound institutional knowledge (0.80)
-  - Treat software development work like an investment portfolio (0.80)
-  - The Tactics of Strategic Opportunism (0.79)
-  - GitLab Handbook Usage (0.79)
-  - NGINX Config (0.79)
+  - Adding features makes it hard to add features (0.80)
+  - Developers spend most of their time figuring the system out (0.80)
+  - Technical debt reflects incomplete understanding (0.80)
+  - The Gateway Pattern (0.80)
+  - Stable teams gain more with AI (0.80)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

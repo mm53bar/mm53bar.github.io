@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Agility - Speed (0.79)
-  - Thoughts on product vs project (0.79)
-  - clarity (0.79)
-  - Developers spend most of their time figuring out systems (0.79)
-  - Programmers and Chefs (0.79)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Products over projects (0.80)
+  - Learning Flutter (0.80)
+  - RailsConf 2014 - Keynote- Writing Software by David Heinemeier Hansson (0.80)
+  - Use systemd timers instead of cronjobs (0.80)
 compiled: 2026-04-06
 ---
 The real difficulty in large systems isn’t writing new code—it’s discovering all the implicit contracts your feature must honour with existing ones. When Google Docs adds emoji reactions, the effort goes into edge cases: Will this break offline mode’s conflict resolution? Does comment history need to track reaction edits? These aren’t coordination problems but emergent interface negotiations, where every existing feature owns undocumented rules.

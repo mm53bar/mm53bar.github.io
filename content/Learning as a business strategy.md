@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Strathcom Tech Radar (0.80)
-  - Products over projects (0.80)
-  - Deep Work- The Complete Guide -Including a Step-by-Step Checklist- (0.80)
-  - What Makes a Senior Engineer? Writing Software vs Building Systems (0.80)
-  - Unlocking high software engineering pace Drive adoption of AI (0.79)
+  - Thoughts on the value of A.I. tooling (0.79)
+  - Developers spend most of their time figuring out systems (0.79)
+  - Time management for makers (0.79)
+  - Look for leverage (0.79)
+  - Standing Desk (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

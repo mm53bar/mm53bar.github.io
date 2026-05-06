@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Treat software development work like an investment portfolio (0.80)
-  - Learning as a business strategy (0.79)
-  - 32 questions to ask in your developer experience surveys - Swarmia (0.79)
-  - Be a Schedule Builder- Not a To-Do List Maker (0.79)
+  - Adding features makes it hard to add features (0.80)
+  - Products over projects (0.80)
+  - Cheryl Court (0.79)
   - Strategic opportunism (0.79)
+  - The Product Engineer (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:
