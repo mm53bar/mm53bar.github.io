@@ -8,9 +8,9 @@ tags: [evergreen]
 similar:
   - deleted_at columns create query complexity (0.81)
   - PostgreSQL triggers automate deletion archival (0.81)
-  - Soft deletes should use separate archive tables with triggers (0.81)
-  - Archive tables separate deleted data from live tables (0.81)
-  - Soft Deletion Probably Isn't Worth It (0.79)
+  - Soft deletes should use separate archive tables with triggers (0.80)
+  - Archive tables separate deleted data from live tables (0.80)
+  - Soft Deletion Probably Isn't Worth It (0.80)
 compiled: 2026-04-06
 ---
 

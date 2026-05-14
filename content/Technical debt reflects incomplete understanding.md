@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Technical debt as a lack of understanding (0.80)
-  - Developers spend most of their time figuring out systems (0.80)
-  - The True Meaning of Technical Debt (0.80)
-  - Fostering a culture that values stability and reliability (0.79)
-  - How Our VP of Engineering Used Data to Support Our Engineering Team on a Human Level (0.79)
+  - Code Is Not Technical Debt - Gavin D. Howard (0.80)
+  - Software Engineering Culture Metrics - How Do You Measure Culture- (0.80)
+  - Products over projects (0.80)
+  - Cheryl's idea for CBT (0.80)
+  - Notes on building a playbook (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

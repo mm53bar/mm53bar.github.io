@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Adding features makes it hard to add features (0.80)
-  - Part III- Building A Second Brain - Using Notion and Roam Research (0.80)
-  - I Love Generative AI and Hate the Companies Building It (0.80)
-  - Engineering growth assessing progress (0.80)
-  - What Makes a Senior Engineer? Writing Software vs Building Systems (0.80)
+  - Learning as a business strategy (0.80)
+  - Products Over Projects (0.80)
+  - Rails Icons 1.0.0 is here (0.80)
+  - 32 questions to ask in your developer experience surveys - Swarmia (0.80)
+  - RFC (0.80)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

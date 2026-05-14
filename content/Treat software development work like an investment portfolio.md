@@ -5,10 +5,10 @@ publish: true
 tags: [evergreen]
 similar:
   - Short-term vs Long-term (0.80)
-  - Choose Postgres queue technology (0.80)
-  - Look for leverage (0.80)
-  - Vertical City Profitability (0.79)
-  - Forget Feature Requests (0.79)
+  - Reduce uncertainty by treating development work as experiments (0.80)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Shopify Values (0.79)
+  - Decided to put Raptor Liner on the tongue box and fenders this weekend. (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

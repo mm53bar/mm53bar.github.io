@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Thoughts on the value of A.I. tooling (0.79)
-  - Developers spend most of their time figuring out systems (0.79)
-  - Time management for makers (0.79)
-  - Look for leverage (0.79)
-  - Standing Desk (0.79)
+  - Products over projects (0.80)
+  - Stable teams gain more with AI (0.80)
+  - The Heart of Software Engineering Still Beats (0.80)
+  - Those pesky pull request reviews (0.80)
+  - clarity (0.80)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:
