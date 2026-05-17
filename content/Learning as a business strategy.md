@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products over projects (0.80)
-  - Stable teams gain more with AI (0.80)
-  - The Heart of Software Engineering Still Beats (0.80)
-  - Those pesky pull request reviews (0.80)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Treat software development work like an investment portfolio (0.80)
   - clarity (0.80)
+  - Products over projects (0.80)
+  - Wicked Blocks (0.80)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

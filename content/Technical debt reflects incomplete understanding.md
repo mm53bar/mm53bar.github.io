@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Code Is Not Technical Debt - Gavin D. Howard (0.80)
-  - Software Engineering Culture Metrics - How Do You Measure Culture- (0.80)
-  - Products over projects (0.80)
-  - Cheryl's idea for CBT (0.80)
-  - Notes on building a playbook (0.79)
+  - Learning as a business strategy (0.80)
+  - Strategic opportunism (0.79)
+  - Marketing for Engineers (0.79)
+  - Products over projects (0.79)
+  - Hockey Perspective From the Buffalo Sabres HC Don Granato (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - Developers spend most of their time figuring the system out (0.80)
-  - Adding features makes it hard to add features (0.80)
-  - Two Way Doors (0.80)
-  - Strategic opportunism (0.80)
-  - Learning as a business strategy (0.80)
+  - An Introduction To Trunk-Based Development (0.80)
+  - Look for leverage (0.80)
+  - Work-wherever turns to work-whenever (0.80)
+  - Those pesky pull request reviews (0.80)
+  - Software & Infrastructure we use to Run Our SaaS (0.80)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

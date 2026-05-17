@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Look for leverage (0.80)
-  - Developers spend most of their time figuring out systems (0.80)
-  - The Tactics of Strategic Opportunism (0.79)
-  - Do Something, So We Can Change It! (0.79)
-  - Adding features makes it hard to add features (0.79)
+  - Against best practices (0.79)
+  - Simple sabotage for software · Erik Bernhardsson (0.79)
+  - Every SAAS is now an API. Whether they like it or not. (0.79)
+  - Jed (0.79)
+  - Build It Yourself (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:
