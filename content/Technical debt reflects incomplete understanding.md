@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Learning as a business strategy (0.80)
-  - Strategic opportunism (0.79)
-  - Marketing for Engineers (0.79)
-  - Products over projects (0.79)
-  - Hockey Perspective From the Buffalo Sabres HC Don Granato (0.79)
+  - Shopify Values (0.79)
+  - The Heart of Software Engineering Still Beats (0.79)
+  - Adding features makes it hard to add features (0.79)
+  - Sustainable Web Development with Rails Book (0.79)
+  - Costco Member Advantage – Greenworks Tools Canada Inc. (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

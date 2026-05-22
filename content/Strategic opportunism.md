@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Against best practices (0.79)
-  - Simple sabotage for software · Erik Bernhardsson (0.79)
-  - Every SAAS is now an API. Whether they like it or not. (0.79)
-  - Jed (0.79)
-  - Build It Yourself (0.79)
+  - Products over projects (0.80)
+  - Developers - think of marketing like software packaging but for humans (0.79)
+  - Ian's Career Quest assessment from Quip (0.79)
+  - Flow in the Time of COVID-19 - Findings from China (0.79)
+  - The Rise and Fall of Getting Things Done (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

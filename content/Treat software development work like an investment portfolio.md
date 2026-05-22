@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Short-term vs Long-term (0.80)
-  - Reduce uncertainty by treating development work as experiments (0.80)
-  - Developers spend most of their time figuring out systems (0.80)
-  - Shopify Values (0.79)
-  - Decided to put Raptor Liner on the tongue box and fenders this weekend. (0.79)
+  - Strategic opportunism (0.80)
+  - Salary bands (0.80)
+  - RFC (0.79)
+  - Adding features makes it hard to add features (0.79)
+  - Big Bets (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

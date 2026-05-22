@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Developers spend most of their time figuring out systems (0.80)
-  - Treat software development work like an investment portfolio (0.80)
-  - clarity (0.80)
-  - Products over projects (0.80)
-  - Wicked Blocks (0.80)
+  - Strategic opportunism (0.80)
+  - Adding features makes it hard to add features (0.80)
+  - Learn Fast and Read Things (0.80)
+  - Google Testing Blog- Don't DRY Your Code Prematurely (0.80)
+  - GTD Contexts (0.80)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

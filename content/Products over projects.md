@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Learning as a business strategy (0.80)
-  - Look for leverage (0.80)
-  - Every SAAS is now an API. Whether they like it or not. (0.80)
-  - The Mortifying Ordeal of Pairing All Day (0.80)
-  - John Cutler on Process Overhead (0.79)
+  - Strategic opportunism (0.79)
+  - A lightweight way to handle different validation situations (0.79)
+  - Fixtures and Factories (0.79)
+  - Adding features makes it hard to add features (0.79)
+  - Strathcom Tech Radar (0.79)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

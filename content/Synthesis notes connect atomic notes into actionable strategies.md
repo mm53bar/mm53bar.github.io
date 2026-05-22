@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - README (0.81)
-  - Note titles should match how you'll search for them (0.80)
-  - Obsidian with LiveSync your very own CouchDB-backed cloud notes (0.80)
-  - spinach-puffs-from-the-emperors-new-groove-binging-with-babish (0.80)
+  - AGENTS (0.80)
+  - Evergreen notes should fit on an index card (0.80)
+  - Why write ADRs (0.79)
   - Atomic notes can transcend their original context (0.79)
+  - Your team should work like an open source project (0.79)
 compiled: 2026-04-06
 ---
 

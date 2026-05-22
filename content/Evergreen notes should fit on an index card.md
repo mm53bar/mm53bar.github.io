@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - AGENTS (0.80)
-  - Atomic notes can transcend their original context (0.80)
-  - Synthesis notes connect atomic notes into actionable strategies (0.80)
+  - Adding features makes it hard to add features (0.79)
+  - Note titles should match how you'll search for them (0.79)
+  - Atomic notes can transcend their original context (0.79)
   - README (0.79)
-  - Evergreen notes should be concept-oriented (0.79)
+  - Designing APIs for humans- Error messages - DEV Community (0.79)
 compiled: 2026-04-06
 ---
 

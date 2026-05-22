@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - An Introduction To Trunk-Based Development (0.80)
-  - Look for leverage (0.80)
-  - Work-wherever turns to work-whenever (0.80)
-  - Those pesky pull request reviews (0.80)
-  - Software & Infrastructure we use to Run Our SaaS (0.80)
+  - TPTs - DRIs - OKRs - ZOMG (0.80)
+  - Adding features makes it hard to add features (0.79)
+  - Want to Be More Productive. Try Doing Less. (0.79)
+  - tivimate (0.79)
+  - Conditionally Enable GZIP on Heroku with Rack--Deflater- Reduce Response Size Significantly - Ark... (0.79)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:
