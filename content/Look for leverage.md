@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - The importance of a handbook-first approach to documentation - Tools for building a handbook (0.79)
-  - My Washing Machine Refreshed My Thinking on Software Effort Estimation — Cosive (0.79)
-  - Agility - Speed (0.79)
-  - Guiding principle cross-pollination over imposed standards (0.79)
-  - The Hagakure #68 The Curious Case of McKinsey (0.79)
+  - Ryan Matte (0.79)
+  - Embrace Change (0.79)
+  - Products over projects (0.79)
+  - Screen Layouts (0.79)
+  - Adding features makes it hard to add features (0.79)
 compiled: 2026-04-06
 ---
 True leverage emerges when you match your effort to how the system _actually_ benefits. Most teams optimize for **local efficiencies** (e.g., faster deploys) while ignoring whether those improvements unlock **systemic outcomes** (e.g., higher retention). This explains why [[Learning is the constraint]]—you need deep context to spot where leverage really lives.

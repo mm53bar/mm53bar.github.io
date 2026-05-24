@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Shopify Values (0.79)
-  - The Heart of Software Engineering Still Beats (0.79)
-  - Adding features makes it hard to add features (0.79)
-  - Sustainable Web Development with Rails Book (0.79)
-  - Costco Member Advantage – Greenworks Tools Canada Inc. (0.79)
+  - Rewrite your Software (0.80)
+  - Accelerate (0.80)
+  - Those pesky pull request reviews (0.80)
+  - Maximizing Developer Effectiveness (0.80)
+  - My sane approach to test fixtures in Rails  Masilotti.com (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

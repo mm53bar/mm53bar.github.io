@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - Adding features makes it hard to add features (0.79)
-  - Note titles should match how you'll search for them (0.79)
-  - Atomic notes can transcend their original context (0.79)
-  - README (0.79)
-  - Designing APIs for humans- Error messages - DEV Community (0.79)
+  - README (0.80)
+  - A lightweight way to handle different validation situations (0.80)
+  - Note titles should match how you'll search for them (0.80)
+  - Atomic notes can transcend their original context (0.80)
+  - Progressive Application Development with Hotwire (0.80)
 compiled: 2026-04-06
 ---
 

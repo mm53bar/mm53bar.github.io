@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Strategic opportunism (0.80)
-  - Salary bands (0.80)
-  - RFC (0.79)
-  - Adding features makes it hard to add features (0.79)
-  - Big Bets (0.79)
+  - Short-term vs Long-term (0.80)
+  - finally-a-nonstick-pan-that-actually-lasts-a-lifetime (0.80)
+  - Thoughts on OKRs (0.79)
+  - Reduce uncertainty by treating development work as experiments (0.79)
+  - The Tyranny of Spreadsheets (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

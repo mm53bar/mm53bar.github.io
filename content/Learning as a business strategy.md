@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Strategic opportunism (0.80)
-  - Adding features makes it hard to add features (0.80)
-  - Learn Fast and Read Things (0.80)
-  - Google Testing Blog- Don't DRY Your Code Prematurely (0.80)
-  - GTD Contexts (0.80)
+  - Thoughts on OKRs (0.80)
+  - The Rise and Fall of Getting Things Done (0.79)
+  - New study shows we work harder when we are happy (0.79)
+  - Ashley - 2023 compensation review at Vertical City (0.79)
+  - The Heart of Software Engineering Still Beats (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

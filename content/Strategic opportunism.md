@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products over projects (0.80)
-  - Developers - think of marketing like software packaging but for humans (0.79)
-  - Ian's Career Quest assessment from Quip (0.79)
-  - Flow in the Time of COVID-19 - Findings from China (0.79)
-  - The Rise and Fall of Getting Things Done (0.79)
+  - Ian Malcolm (0.79)
+  - Claude Cowork demo (0.79)
+  - Products over projects (0.79)
+  - 2025 Talent Mapping at Vertical City (0.79)
+  - The best way to hold a remote one-on-one meeting (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

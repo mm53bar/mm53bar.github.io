@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - AGENTS (0.80)
-  - Evergreen notes should fit on an index card (0.80)
-  - Why write ADRs (0.79)
-  - Atomic notes can transcend their original context (0.79)
-  - Your team should work like an open source project (0.79)
+  - Note titles should match how you'll search for them (0.80)
+  - Atomic notes can transcend their original context (0.80)
+  - they-got-it-all-wrong-about-sleeping-bags (0.80)
+  - README (0.80)
+  - Notes from car camping while taking Sam to uvic (0.79)
 compiled: 2026-04-06
 ---
 

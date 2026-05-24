@@ -4,10 +4,10 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - On Writing Software Well 4- Not every model is backed by a database (0.80)
-  - Rewrite your Software (0.80)
-  - Evergreen notes should fit on an index card (0.80)
-  - Look for leverage (0.79)
-  - architecture decisions (0.79)
+  - The UX of UUIDs - Unkey (0.80)
+  - Progressive Application Development with Hotwire (0.79)
+  - Scalegrid.io (0.79)
+  - Left-Side Vertical Navigation on Desktop- Scalable- Responsive- and Easy to Scan (0.79)
+  - TELUS Optik (0.79)
 ---
 An authorization style that Google encourages where you initially only request the minimal scopes from a user (ie name and email), then re-request more scopes as needed
