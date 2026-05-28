@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - AI expectations at Vertical City (0.80)
-  - Adding features makes it hard to add features (0.79)
-  - Why senior developers fail to communicate their expertise (0.79)
-  - Learning as a business strategy (0.79)
-  - The Perks of a High-Documentation, Low-Meeting Work Culture (0.79)
+  - Choose Boring Technology (0.80)
+  - Investopedia (0.80)
+  - Even overs- The prioritization tool that brings your strategy to life (0.79)
+  - Bruce (0.79)
+  - Software Engineering Culture Metrics - How Do You Measure Culture- (0.79)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

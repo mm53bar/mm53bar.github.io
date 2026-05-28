@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Thoughts on OKRs (0.80)
-  - The Rise and Fall of Getting Things Done (0.79)
-  - New study shows we work harder when we are happy (0.79)
-  - Ashley - 2023 compensation review at Vertical City (0.79)
-  - The Heart of Software Engineering Still Beats (0.79)
+  - Choose Boring Technology (0.80)
+  - clarity (0.80)
+  - Disadvantages of Pull Requests (0.79)
+  - Technical debt reflects incomplete understanding (0.79)
+  - Brain scans reveal coding uses same regions as speech (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

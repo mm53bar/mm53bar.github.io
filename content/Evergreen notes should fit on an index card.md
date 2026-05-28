@@ -7,10 +7,10 @@ sources:
 publish: true
 similar:
   - README (0.80)
-  - A lightweight way to handle different validation situations (0.80)
+  - Synthesis notes connect atomic notes into actionable strategies (0.80)
   - Note titles should match how you'll search for them (0.80)
-  - Atomic notes can transcend their original context (0.80)
-  - Progressive Application Development with Hotwire (0.80)
+  - Atomic notes can transcend their original context (0.79)
+  - Comparing the New Generation of Build Tools (0.79)
 compiled: 2026-04-06
 ---
 

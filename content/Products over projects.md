@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Shipping quality software in hostile environments - Chaos Guru - Luka Kladaric (0.80)
-  - Thoughts on OKRs (0.80)
-  - Strathcom Tech Radar (0.80)
-  - claude-dropped-opus-47-and-its-not-even-close (0.79)
-  - Less is more agile (0.79)
+  - 2025 Performance Reviews at Vertical City (0.79)
+  - Vertical City Privacy By Design meeting (0.79)
+  - Unlocking high software engineering pace Drive adoption of AI (0.79)
+  - Learning as a business strategy (0.79)
+  - The Founder’s Guide to Discipline- Lessons from Front’s Mathilde Collin (0.79)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

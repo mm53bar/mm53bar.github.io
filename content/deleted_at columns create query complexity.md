@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - PostgreSQL triggers automate deletion archival (0.80)
-  - Soft deletes should use archive tables with triggers (0.80)
   - Archive tables separate deleted data from live tables (0.80)
-  - Soft deletes should use separate archive tables with triggers (0.79)
-  - Note titles should match how you'll search for them (0.79)
+  - Soft deletes should use archive tables with triggers (0.80)
+  - PostgreSQL triggers automate deletion archival (0.80)
+  - The challenges of soft delete (0.80)
+  - Soft deletes should use separate archive tables with triggers (0.80)
 compiled: 2026-04-06
 ---
 
