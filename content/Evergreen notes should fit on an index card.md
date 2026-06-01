@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - README (0.80)
   - Synthesis notes connect atomic notes into actionable strategies (0.80)
-  - Note titles should match how you'll search for them (0.80)
+  - The Plain Text Life (0.79)
+  - README (0.79)
   - Atomic notes can transcend their original context (0.79)
-  - Comparing the New Generation of Build Tools (0.79)
+  - Note titles should match how you'll search for them (0.79)
 compiled: 2026-04-06
 ---
 

@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - 2025 Performance Reviews at Vertical City (0.79)
-  - Vertical City Privacy By Design meeting (0.79)
-  - Unlocking high software engineering pace Drive adoption of AI (0.79)
-  - Learning as a business strategy (0.79)
-  - The Founder’s Guide to Discipline- Lessons from Front’s Mathilde Collin (0.79)
+  - Learning as a business strategy (0.80)
+  - The Mortifying Ordeal of Pairing All Day (0.80)
+  - Every SAAS is now an API. Whether they like it or not. (0.80)
+  - Reduce uncertainty by treating development work as experiments (0.80)
+  - Strategic opportunism (0.80)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

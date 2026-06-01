@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Short-term vs Long-term (0.79)
-  - Metadata (0.79)
-  - Kim Wu (0.79)
-  - The 10 Best Books for New Managers on Leadership and Self-Improvement (0.79)
-  - What Is Strategy- (0.79)
+  - Feedback from Interview with Cheryl Court (0.80)
+  - Dear Software Engineer It's Time to Reclaim Your Role - Annie Vella (0.79)
+  - Dead simple Rails monitoring (0.79)
+  - CodeClimate (0.79)
+  - Diversion (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

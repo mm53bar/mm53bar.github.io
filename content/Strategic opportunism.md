@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Ian Malcolm (0.79)
-  - Claude Cowork demo (0.79)
-  - Products over projects (0.79)
-  - 2025 Talent Mapping at Vertical City (0.79)
-  - The best way to hold a remote one-on-one meeting (0.79)
+  - Products over projects (0.80)
+  - Disadvantages of Pull Requests (0.79)
+  - Look for leverage (0.79)
+  - Big Bets (0.79)
+  - Learning as a business strategy (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

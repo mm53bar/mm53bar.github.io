@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Rewrite your Software (0.80)
-  - Accelerate (0.80)
-  - Those pesky pull request reviews (0.80)
-  - Maximizing Developer Effectiveness (0.80)
-  - My sane approach to test fixtures in Rails  Masilotti.com (0.79)
+  - Learn Fast and Read Things (0.80)
+  - Can pop-up work holidays help workers de-stress- (0.80)
+  - fullscript cover letter (0.79)
+  - Ian Malcolm (0.79)
+  - Products over projects (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

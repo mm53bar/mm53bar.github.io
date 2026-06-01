@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - A.I. Should Elevate Your Thinking, Not Replace It - Blog - Koshy John (0.80)
-  - How to build organizational resilience (0.80)
-  - Thoughts on product vs project (0.80)
-  - Supercharging Claude Code with the Right (CLI) Tools (0.79)
-  - dhh-rails-style by everyinccompound-engineering-plugin (0.79)
+  - Idea Generation (0.80)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Those pesky pull request reviews (0.80)
+  - Walk Your Butt Off (0.80)
+  - Accept (0.79)
 compiled: 2026-04-06
 ---
 True leverage emerges when you match your effort to how the system _actually_ benefits. Most teams optimize for **local efficiencies** (e.g., faster deploys) while ignoring whether those improvements unlock **systemic outcomes** (e.g., higher retention). This explains why [[Learning is the constraint]]—you need deep context to spot where leverage really lives.

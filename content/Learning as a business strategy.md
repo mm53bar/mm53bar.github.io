@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Choose Boring Technology (0.80)
-  - clarity (0.80)
-  - Disadvantages of Pull Requests (0.79)
-  - Technical debt reflects incomplete understanding (0.79)
-  - Brain scans reveal coding uses same regions as speech (0.79)
+  - Products over projects (0.80)
+  - Hello- production (0.80)
+  - Google expects its staff to work from home until 2021 and it's not alone (0.80)
+  - Google Testing Blog- Write Clean Code to Reduce Cognitive Load (0.79)
+  - Look for leverage (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:
