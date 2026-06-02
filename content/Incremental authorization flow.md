@@ -4,10 +4,10 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - BougeRV 30 quart portable fridge (0.79)
-  - UI for your AI | LangUI (0.79)
-  - i-dont-get-why-people-dont-make-drawers-like-this (0.79)
-  - 32-trending-self-hosted-github-projects (0.79)
-  - Mt Kidd RV Park (0.79)
+  - 2026 is the Year of Self-hosting (0.79)
+  - Rails Icons 1.0.0 is here (0.79)
+  - Roxy (0.79)
+  - Oh no I've done it again (0.79)
+  - White noise on iPhone (0.79)
 ---
 An authorization style that Google encourages where you initially only request the minimal scopes from a user (ie name and email), then re-request more scopes as needed

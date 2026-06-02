@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - Look for leverage (0.80)
-  - productivity (0.80)
-  - Products over projects (0.80)
-  - Feedback from Interview with Cheryl Court (0.79)
-  - Developers spend most of their time figuring the system out (0.79)
+  - My sane approach to test fixtures in Rails  Masilotti.com (0.79)
+  - Look for leverage (0.79)
+  - Adding features makes it hard to add features (0.79)
+  - Software & Infrastructure we use to Run Our SaaS (0.79)
+  - Notes on A Philosophy of Software Design- (0.79)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

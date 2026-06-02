@@ -6,10 +6,10 @@ publish: true
 tags: [evergreen]
 similar:
   - Products over projects (0.80)
-  - Hello- production (0.80)
-  - Google expects its staff to work from home until 2021 and it's not alone (0.80)
-  - Google Testing Blog- Write Clean Code to Reduce Cognitive Load (0.79)
-  - Look for leverage (0.79)
+  - domains (0.79)
+  - Technical debt reflects incomplete understanding (0.79)
+  - An Unreasonable Amount of Time (0.79)
+  - Idea Generation (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

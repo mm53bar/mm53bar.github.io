@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Feedback from Interview with Cheryl Court (0.80)
-  - Dear Software Engineer It's Time to Reclaim Your Role - Annie Vella (0.79)
-  - Dead simple Rails monitoring (0.79)
-  - CodeClimate (0.79)
-  - Diversion (0.79)
+  - Diagram as Code (0.79)
+  - Why senior developers fail to communicate their expertise (0.79)
+  - Roles of VPE and CTO (0.79)
+  - Kim Wu (0.79)
+  - The Tactics of Strategic Opportunism (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

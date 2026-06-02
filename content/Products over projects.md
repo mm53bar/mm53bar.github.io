@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
+  - Principles for Decision-Making in a Flat Organization (0.80)
   - Learning as a business strategy (0.80)
-  - The Mortifying Ordeal of Pairing All Day (0.80)
-  - Every SAAS is now an API. Whether they like it or not. (0.80)
-  - Reduce uncertainty by treating development work as experiments (0.80)
-  - Strategic opportunism (0.80)
+  - Products Over Projects (0.79)
+  - Do Something, So We Can Change It! (0.79)
+  - My sane approach to test fixtures in Rails  Masilotti.com (0.79)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

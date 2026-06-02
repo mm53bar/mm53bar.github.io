@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Soft Deletion Probably Isn't Worth It (0.81)
   - Soft deletes should use archive tables with triggers (0.81)
   - deleted_at columns create query complexity (0.80)
-  - Easy, alternative soft deletion `deleted_record_insert` (0.80)
-  - The challenges of soft delete (0.80)
+  - Archive tables separate deleted data from live tables (0.80)
+  - Calibre-web - Sync Shelves with Kobo Device (0.80)
+  - Soft deletes should use separate archive tables with triggers (0.80)
 compiled: 2026-04-06
 ---
 

@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - Note titles should match how you'll search for them (0.81)
-  - README (0.80)
   - Atomic notes can transcend their original context (0.80)
-  - Automate repetitive tasks with custom git commands (0.80)
+  - README (0.80)
   - Evergreen notes should fit on an index card (0.80)
+  - Archive tables separate deleted data from live tables (0.80)
+  - Feedback from Interview with Cheryl Court (0.79)
 compiled: 2026-04-06
 ---
 

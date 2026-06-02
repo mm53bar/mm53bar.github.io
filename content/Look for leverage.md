@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Idea Generation (0.80)
-  - Developers spend most of their time figuring out systems (0.80)
-  - Those pesky pull request reviews (0.80)
-  - Walk Your Butt Off (0.80)
-  - Accept (0.79)
+  - Flow in the Time of COVID-19 - Findings from China (0.79)
+  - My Washing Machine Refreshed My Thinking on Software Effort Estimation — Cosive (0.79)
+  - It's OK to hardcode feature flags (0.79)
+  - Developers spend most of their time figuring out systems (0.79)
+  - Strategic opportunism (0.79)
 compiled: 2026-04-06
 ---
 True leverage emerges when you match your effort to how the system _actually_ benefits. Most teams optimize for **local efficiencies** (e.g., faster deploys) while ignoring whether those improvements unlock **systemic outcomes** (e.g., higher retention). This explains why [[Learning is the constraint]]—you need deep context to spot where leverage really lives.
