@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Principles for Decision-Making in a Flat Organization (0.80)
-  - Learning as a business strategy (0.80)
-  - Products Over Projects (0.79)
-  - Do Something, So We Can Change It! (0.79)
-  - My sane approach to test fixtures in Rails  Masilotti.com (0.79)
+  - Dropping sprints a year with Shape Up (0.80)
+  - Look for leverage (0.80)
+  - Strategic opportunism (0.80)
+  - Code is run more than read (0.80)
+  - How we ship code faster and safer with feature flags (0.80)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

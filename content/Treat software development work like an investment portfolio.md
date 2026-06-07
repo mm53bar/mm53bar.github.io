@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Diagram as Code (0.79)
-  - Why senior developers fail to communicate their expertise (0.79)
-  - Roles of VPE and CTO (0.79)
-  - Kim Wu (0.79)
-  - The Tactics of Strategic Opportunism (0.79)
+  - Short-term vs Long-term (0.79)
+  - Products over projects (0.79)
+  - Learning as a business strategy (0.79)
+  - Make Your Own Luck (0.79)
+  - The 3 Horizons for strategic planning (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

@@ -7,11 +7,11 @@ sources:
   - "[[Evergreen notes should be concept-oriented]]"
 publish: true
 similar:
-  - Atomic notes can transcend their original context (0.80)
-  - How To Take Smart Notes - 10 Principles to Revolutionize Your Note-Taking and Writing (0.80)
-  - Evergreen notes (0.80)
-  - My sane approach to test fixtures in Rails  Masilotti.com (0.79)
-  - Review scripts for notes (0.79)
+  - Atomic notes can transcend their original context (0.81)
+  - Synthesis notes connect atomic notes into actionable strategies (0.81)
+  - Evergreen notes should fit on an index card (0.80)
+  - Evergreen notes should be concept-oriented (0.79)
+  - AGENTS (0.79)
 compiled: 2026-04-06
 ---
 
