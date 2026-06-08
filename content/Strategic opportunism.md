@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - TBM 41-51 Why Goal Cascades are Harmful (and What to Do Instead) (0.80)
-  - Dropping sprints a year with Shape Up (0.80)
-  - Treat software development work like an investment portfolio (0.79)
-  - Stable teams gain more with AI (0.79)
-  - iCloud sync automation (0.79)
+  - Products over projects (0.80)
+  - i-made-home-maintenance-fun-with-nfc-tags-in-my-smart-home (0.80)
+  - productivity (0.80)
+  - Hockey Perspective From the Buffalo Sabres HC Don Granato (0.80)
+  - management (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

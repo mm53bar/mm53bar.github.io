@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Stop Overcomplicating It- The Simple Guidebook to Upping Your Management Game (0.80)
-  - Technical debt as a lack of understanding (0.79)
-  - Ian Malcolm (0.79)
-  - It's OK to hardcode feature flags (0.79)
-  - Honda Accord (0.79)
+  - Products over projects (0.80)
+  - Notes on the empowered book by Marty Kagan (0.80)
+  - The End of Programming as We Know It (0.80)
+  - Shipping quality software in hostile environments - Chaos Guru - Luka Kladaric (0.79)
+  - Reduce uncertainty by treating development work as experiments (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

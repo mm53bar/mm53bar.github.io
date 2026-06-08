@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Learning as a business strategy (0.80)
-  - The Product-Minded Software Engineer (0.80)
   - It's OK to hardcode feature flags (0.80)
-  - Guiding principle cross-pollination over imposed standards (0.79)
-  - Better coordination- or better software- (0.79)
+  - On Writing Software Well 4- Not every model is backed by a database (0.79)
+  - Products over projects (0.79)
+  - Values - Alchemists (0.79)
+  - Strategic opportunism (0.79)
 compiled: 2026-04-06
 ---
 The real difficulty in large systems isn’t writing new code—it’s discovering all the implicit contracts your feature must honour with existing ones. When Google Docs adds emoji reactions, the effort goes into edge cases: Will this break offline mode’s conflict resolution? Does comment history need to track reaction edits? These aren’t coordination problems but emergent interface negotiations, where every existing feature owns undocumented rules.

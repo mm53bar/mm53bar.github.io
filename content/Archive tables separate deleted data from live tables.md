@@ -6,10 +6,10 @@ publish: true
 tags: [evergreen]
 similar:
   - deleted_at columns create query complexity (0.81)
-  - Soft deletes should use archive tables with triggers (0.80)
-  - Easy, alternative soft deletion `deleted_record_insert` (0.80)
+  - Soft deletes should use archive tables with triggers (0.81)
   - PostgreSQL triggers automate deletion archival (0.80)
-  - Soft deletes should use separate archive tables with triggers (0.79)
+  - Easy, alternative soft deletion `deleted_record_insert` (0.80)
+  - +Set default git branch to main (0.80)
 compiled: 2026-04-06
 ---
 
