@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Reduce uncertainty by treating development work as experiments (0.79)
-  - TELUS Geomatics (0.79)
-  - UX Is Your Moat (And You’re Ignoring It) (0.79)
-  - Short-term vs Long-term (0.79)
-  - Why frozen test fixtures are a problem on large projects and how to avoid them (0.79)
+  - Learning as a business strategy (0.80)
+  - Strategic opportunism (0.79)
+  - Introducing My Knowledge Lakehouse (0.79)
+  - Thread by @karpathy (0.79)
+  - 35-self-hosted-projects-on-github-janitorr-matcha-trailarr-prismarr-signal-slskd (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

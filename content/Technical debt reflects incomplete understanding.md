@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products over projects (0.80)
-  - Notes on the empowered book by Marty Kagan (0.80)
-  - The End of Programming as We Know It (0.80)
-  - Shipping quality software in hostile environments - Chaos Guru - Luka Kladaric (0.79)
-  - Reduce uncertainty by treating development work as experiments (0.79)
+  - Adding features makes it hard to add features (0.79)
+  - Technical debt as a lack of understanding (0.79)
+  - Metadata (0.79)
+  - Faire’s Engineering Handbook (0.79)
+  - An Opinionated Guide to Configuring Rails on Heroku (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Dropping sprints a year with Shape Up (0.80)
-  - Look for leverage (0.80)
   - Strategic opportunism (0.80)
-  - Code is run more than read (0.80)
-  - How we ship code faster and safer with feature flags (0.80)
+  - Team Objectives - Overview (0.80)
+  - Scalegrid.io (0.80)
+  - Fullscript Developer Handbook (0.80)
+  - Thoughts on OKRs (0.80)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

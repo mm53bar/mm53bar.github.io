@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Principles for Decision-Making in a Flat Organization (0.80)
-  - ai-wont-fix-the-fundamental-flaw-of-programming (0.80)
-  - Fostering a culture that values stability and reliability (0.80)
-  - Adding features makes it hard to add features (0.80)
-  - RFC (0.80)
+  - Metadata (0.80)
+  - Investopedia (0.80)
+  - Treat software development work like an investment portfolio (0.80)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Introducing My Knowledge Lakehouse (0.80)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

@@ -6,10 +6,10 @@ publish: true
 tags: [evergreen]
 similar:
   - Products over projects (0.80)
-  - i-made-home-maintenance-fun-with-nfc-tags-in-my-smart-home (0.80)
-  - productivity (0.80)
-  - Hockey Perspective From the Buffalo Sabres HC Don Granato (0.80)
-  - management (0.79)
+  - Sense of Urgency (0.80)
+  - Big Bets (0.80)
+  - How to Write Blog Posts that Developers Read (0.79)
+  - Continuous Roadmapping (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:
