@@ -9,7 +9,7 @@ similar:
   - Evergreen notes should fit on an index card (0.80)
   - Atomic notes can transcend their original context (0.80)
   - README (0.80)
-  - tags (0.80)
+  - The Plain Text Life (0.80)
   - AGENTS (0.80)
 compiled: 2026-04-06
 ---

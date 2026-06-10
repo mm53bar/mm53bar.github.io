@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products over projects (0.80)
-  - Sense of Urgency (0.80)
-  - Big Bets (0.80)
-  - How to Write Blog Posts that Developers Read (0.79)
-  - Continuous Roadmapping (0.79)
+  - Products over projects (0.79)
+  - Developers spend most of their time figuring out systems (0.79)
+  - Ryan Matte (0.79)
+  - Welcome to nix-dev - nix-dev documentation (0.79)
+  - Software Development Principles (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:
