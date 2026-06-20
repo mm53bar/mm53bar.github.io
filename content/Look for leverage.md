@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Developers spend most of their time figuring out systems (0.79)
-  - Those pesky pull request reviews (0.79)
-  - Managing through the WHY, WHAT and HOW (0.79)
-  - Products over projects (0.79)
-  - Eric Glyman on X- -On the time YC cofounder @jesslivingston tore me a new one and changed the fut... (0.79)
+  - Learning as a business strategy (0.80)
+  - Strategic opportunism (0.80)
+  - Developers spend most of their time figuring out systems (0.80)
+  - 37signals Dev — Solid Cache (0.80)
+  - GTD in Roam (0.79)
 compiled: 2026-04-06
 ---
 True leverage emerges when you match your effort to how the system _actually_ benefits. Most teams optimize for **local efficiencies** (e.g., faster deploys) while ignoring whether those improvements unlock **systemic outcomes** (e.g., higher retention). This explains why [[Learning is the constraint]]—you need deep context to spot where leverage really lives.

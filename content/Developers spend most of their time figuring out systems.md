@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - The Agentic AI Handbook Production-Ready Patterns - Log - nibzard (0.80)
-  - Why We Argue- Style (0.80)
-  - Learning as a business strategy (0.80)
-  - Look for leverage (0.79)
-  - Senior Engineers Build Consensus (0.79)
+  - Products over projects (0.80)
+  - Developers spend most of their time figuring the system out (0.80)
+  - Software Development Principles (0.80)
+  - The PR Paradox- Merge Faster by Promoting Your PR (0.80)
+  - Why are big tech companies so slow? (0.80)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

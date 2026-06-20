@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Adding features makes it hard to add features (0.79)
-  - Technical debt as a lack of understanding (0.79)
-  - Metadata (0.79)
-  - Faire’s Engineering Handbook (0.79)
-  - An Opinionated Guide to Configuring Rails on Heroku (0.79)
+  - Technical debt as a lack of understanding (0.80)
+  - Encouraging a Culture of Written Communication (0.80)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Avoid big bets fueled by intuition (0.79)
+  - My take on why goal cascades are harmful and what to do instead (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

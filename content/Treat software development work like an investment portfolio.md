@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Learning as a business strategy (0.80)
-  - Strategic opportunism (0.79)
-  - Introducing My Knowledge Lakehouse (0.79)
-  - Thread by @karpathy (0.79)
-  - 35-self-hosted-projects-on-github-janitorr-matcha-trailarr-prismarr-signal-slskd (0.79)
+  - Short-term vs Long-term (0.80)
+  - 5-line code review vs 5000-line code review (0.79)
+  - A.I. Should Elevate Your Thinking, Not Replace It - Blog - Koshy John (0.79)
+  - Roles of VPE and CTO (0.79)
+  - “Founder Mode” and the Art of Mythmaking (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.
