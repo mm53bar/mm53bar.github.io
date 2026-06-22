@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - README (0.80)
+  - GTD in Roam (0.79)
+  - README (0.79)
   - Synthesis notes connect atomic notes into actionable strategies (0.79)
-  - 37signals Dev — Modern CSS patterns in Campfire (0.79)
-  - tags (0.79)
-  - Han Zhang (0.79)
+  - How to deal with money in software (0.79)
+  - Dev Cycles (0.79)
 compiled: 2026-04-06
 ---
 

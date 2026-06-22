@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Look for leverage (0.80)
-  - Product Thinking vs- Project Thinking (0.80)
-  - Engineering growth assessing progress (0.80)
-  - The Tactics of Strategic Opportunism (0.79)
-  - Accountability for Effective Teams (0.79)
+  - drink (0.80)
+  - Embrace Change (0.80)
+  - Team Initiatives — Stop Starting and Start Finishing (0.80)
+  - Shipping Is a State of Mind - Mainmatter (0.80)
+  - Sublime Text License Key (0.80)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

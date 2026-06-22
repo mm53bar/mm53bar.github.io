@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - GTD in Roam (0.80)
-  - Fullscript Developer Handbook (0.80)
-  - Look for leverage (0.80)
-  - Strategic opportunism (0.80)
-  - Fostering a culture that values stability and reliability (0.80)
+  - The Heart of Software Engineering Still Beats (0.80)
+  - drink (0.80)
+  - Agile Makes No Sense (0.80)
+  - Against best practices (0.80)
+  - Reduce uncertainty by treating development work as experiments (0.80)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:
