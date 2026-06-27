@@ -6,11 +6,11 @@ sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
 similar:
-  - GTD in Roam (0.79)
-  - README (0.79)
-  - Synthesis notes connect atomic notes into actionable strategies (0.79)
-  - How to deal with money in software (0.79)
-  - Dev Cycles (0.79)
+  - README (0.80)
+  - Synthesis notes connect atomic notes into actionable strategies (0.80)
+  - The Plain Text Life (0.80)
+  - durston-x-mid-pitching-guide-v2 (0.79)
+  - Why I Built Litestream (0.79)
 compiled: 2026-04-06
 ---
 

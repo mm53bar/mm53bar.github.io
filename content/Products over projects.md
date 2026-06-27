@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - drink (0.80)
-  - Embrace Change (0.80)
-  - Team Initiatives — Stop Starting and Start Finishing (0.80)
-  - Shipping Is a State of Mind - Mainmatter (0.80)
-  - Sublime Text License Key (0.80)
+  - “Founder Mode” and the Art of Mythmaking (0.79)
+  - Adding features makes it hard to add features (0.79)
+  - Ian's Career Quest assessment from Quip (0.79)
+  - Learning as a business strategy (0.79)
+  - Han Zhang (0.79)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

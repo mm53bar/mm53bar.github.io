@@ -3,11 +3,11 @@ sources: "[[Clippings/Developers spend most of their time figuring the system ou
 publish: true
 tags: [evergreen]
 similar:
-  - Products over projects (0.80)
-  - Developers spend most of their time figuring the system out (0.80)
-  - Software Development Principles (0.80)
-  - The PR Paradox- Merge Faster by Promoting Your PR (0.80)
-  - Why are big tech companies so slow? (0.80)
+  - Quotes (0.80)
+  - Stable teams gain more with AI (0.79)
+  - Ian's Career Quest assessment from Quip (0.79)
+  - The importance of a handbook-first approach to documentation - Tools for building a handbook (0.79)
+  - Code Is Not Technical Debt - Gavin D. Howard (0.79)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

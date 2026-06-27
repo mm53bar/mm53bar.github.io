@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Products over projects (0.80)
-  - Reduce uncertainty by treating development work as experiments (0.80)
-  - Phil Darch (0.80)
-  - An Unreasonable Amount of Time (0.79)
-  - Sustainable Web Development with Rails Book (0.79)
+  - The Cult of Best Practice (0.79)
+  - Learning as a business strategy (0.79)
+  - Big Bets (0.79)
+  - top-10-claude-code-skills-plugins-clis-april-2026 (0.79)
+  - The End of Programming as We Know It (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Technical debt as a lack of understanding (0.80)
-  - Encouraging a Culture of Written Communication (0.80)
-  - Developers spend most of their time figuring out systems (0.80)
-  - Avoid big bets fueled by intuition (0.79)
-  - My take on why goal cascades are harmful and what to do instead (0.79)
+  - Look for leverage (0.79)
+  - Phil Darch (0.79)
+  - Developers spend most of their time figuring out systems (0.79)
+  - Why senior developers fail to communicate their expertise (0.79)
+  - Managing through the WHY, WHAT and HOW (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.
