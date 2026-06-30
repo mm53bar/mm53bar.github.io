@@ -7,10 +7,10 @@ sources:
 publish: true
 similar:
   - README (0.80)
+  - Atomic notes can transcend their original context (0.80)
   - Synthesis notes connect atomic notes into actionable strategies (0.80)
-  - The Plain Text Life (0.80)
-  - durston-x-mid-pitching-guide-v2 (0.79)
-  - Why I Built Litestream (0.79)
+  - Furnace filter (0.79)
+  - Software Development Principles (0.79)
 compiled: 2026-04-06
 ---
 

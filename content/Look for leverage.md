@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - New study shows we work harder when we are happy (0.79)
-  - Agile Makes No Sense (0.79)
-  - The Plain Text Life (0.79)
-  - Reduce uncertainty by treating development work as experiments (0.79)
-  - Treat software development work like an investment portfolio (0.79)
+  - (1) The Predictability Trap - LinkedIn (0.79)
+  - Hoka Bondi (0.79)
+  - Data Overage ownership (0.79)
+  - Technical debt reflects incomplete understanding (0.79)
+  - Web Clip (0.79)
 compiled: 2026-04-06
 ---
 True leverage emerges when you match your effort to how the system _actually_ benefits. Most teams optimize for **local efficiencies** (e.g., faster deploys) while ignoring whether those improvements unlock **systemic outcomes** (e.g., higher retention). This explains why [[Learning is the constraint]]—you need deep context to spot where leverage really lives.

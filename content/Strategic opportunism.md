@@ -5,11 +5,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Notes from “Good Strategy  Bad Strategy” by Jeff Zych (0.80)
-  - 2025 Talent Mapping at Vertical City (0.80)
-  - The beauty of constraints (0.79)
-  - Strategic opportunism (0.79)
-  - Fullscript Engineer Manager application (0.79)
+  - Forget Feature Requests (0.80)
+  - An Opinionated Guide To Handling Pull Requests (0.79)
+  - Products over projects (0.79)
+  - Adding features makes it hard to add features (0.79)
+  - Strathcom (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

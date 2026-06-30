@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - “Founder Mode” and the Art of Mythmaking (0.79)
-  - Adding features makes it hard to add features (0.79)
-  - Ian's Career Quest assessment from Quip (0.79)
-  - Learning as a business strategy (0.79)
-  - Han Zhang (0.79)
+  - Developers spend most of their time figuring out systems (0.80)
+  - Technical debt reflects incomplete understanding (0.79)
+  - What is this -product- you speak of- (0.79)
+  - Developers spend most of their time figuring the system out (0.79)
+  - The SPACE of Developer Productivity (0.79)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

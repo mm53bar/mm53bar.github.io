@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - The Cult of Best Practice (0.79)
-  - Learning as a business strategy (0.79)
-  - Big Bets (0.79)
-  - top-10-claude-code-skills-plugins-clis-april-2026 (0.79)
-  - The End of Programming as We Know It (0.79)
+  - 10 Software Engineering Laws Everybody Loves to Ignore (0.80)
+  - Can pop-up work holidays help workers de-stress- (0.79)
+  - Strategic opportunism (0.79)
+  - Code Is Not Technical Debt - Gavin D. Howard (0.79)
+  - Choose Boring Technology (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

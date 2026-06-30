@@ -6,10 +6,10 @@ publish: true
 tags: [evergreen]
 similar:
   - Soft deletes should use archive tables with triggers (0.81)
+  - PostgreSQL triggers automate deletion archival (0.80)
   - deleted_at columns create query complexity (0.80)
-  - Soft Deletion Probably Isn't Worth It (0.80)
-  - PostgreSQL triggers automate deletion archival (0.79)
-  - Easy, alternative soft deletion `deleted_record_insert` (0.79)
+  - Easy, alternative soft deletion `deleted_record_insert` (0.80)
+  - Git scraping- track changes over time by scraping to a Git repository (0.80)
 compiled: 2026-04-06
 ---
 

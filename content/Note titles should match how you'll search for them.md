@@ -8,10 +8,10 @@ sources:
 publish: true
 similar:
   - Atomic notes can transcend their original context (0.80)
-  - Evergreen notes should be concept-oriented (0.79)
-  - A writing inbox for transient and incomplete notes (0.79)
-  - How To Take Smart Notes - 10 Principles to Revolutionize Your Note-Taking and Writing (0.79)
-  - Synthesis notes connect atomic notes into actionable strategies (0.79)
+  - Synthesis notes connect atomic notes into actionable strategies (0.80)
+  - Evergreen notes should be concept-oriented (0.80)
+  - README (0.79)
+  - Evergreen notes (0.79)
 compiled: 2026-04-06
 ---
 

@@ -4,11 +4,11 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - Look for leverage (0.79)
-  - Phil Darch (0.79)
-  - Developers spend most of their time figuring out systems (0.79)
-  - Why senior developers fail to communicate their expertise (0.79)
-  - Managing through the WHY, WHAT and HOW (0.79)
+  - Zen of AI Coding (0.80)
+  - authentication (0.79)
+  - Products over projects (0.79)
+  - Disadvantages of Pull Requests (0.79)
+  - Michael Stensby (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.

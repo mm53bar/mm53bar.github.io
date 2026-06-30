@@ -4,10 +4,10 @@ sources:
 publish: true
 tags: [evergreen]
 similar:
-  - llm-wiki-karpathy (0.79)
-  - Renogy Wanderer Li 30A PWM Charge Controller (0.79)
-  - Jason Fried on X- -Now you have the data. Thousands of responses from a survey with dozens of que... (0.79)
-  - Review scripts for notes (0.79)
-  - How Soap Works- The Science Behind Handwashing - Pfizer (0.79)
+  - White noise on iPhone (0.80)
+  - ebook downloads (0.79)
+  - 2022 Town hall at Vertical City (0.79)
+  - Sign-in form best practices (0.79)
+  - Setup AWS Organizations With Google Suite SAML SSO (0.79)
 ---
 An authorization style that Google encourages where you initially only request the minimal scopes from a user (ie name and email), then re-request more scopes as needed
