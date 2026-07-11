@@ -5,12 +5,6 @@ tags:
 sources:
   - "[[Evergreen notes should be concept-oriented]]"
 publish: true
-similar:
-  - Note titles should match how you'll search for them (0.81)
-  - Synthesis notes connect atomic notes into actionable strategies (0.80)
-  - AGENTS (0.80)
-  - README (0.80)
-  - Evergreen notes should fit on an index card (0.79)
 compiled: 2026-04-06
 ---
 

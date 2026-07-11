@@ -4,12 +4,6 @@ sources:
   - "[[Clippings/The Tactics of Strategic Opportunism|The Tactics of Strategic Opportunism]]"
 publish: true
 tags: [evergreen]
-similar:
-  - Forget Feature Requests (0.80)
-  - An Opinionated Guide To Handling Pull Requests (0.79)
-  - Products over projects (0.79)
-  - Adding features makes it hard to add features (0.79)
-  - Strathcom (0.79)
 compiled: 2026-04-06
 ---
 Strategic opportunism is the practice of **pursuing short-term opportunities in service of long-term goals**. It’s not ad-hoc reactivity—it’s _prepared creativity_:

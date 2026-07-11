@@ -3,12 +3,6 @@ sources:
   - "[[Clippings/Short-term vs Long-term|Short-term vs Long-term]]"
 publish: true
 tags: [evergreen]
-similar:
-  - 10 Software Engineering Laws Everybody Loves to Ignore (0.80)
-  - Can pop-up work holidays help workers de-stress- (0.79)
-  - Strategic opportunism (0.79)
-  - Code Is Not Technical Debt - Gavin D. Howard (0.79)
-  - Choose Boring Technology (0.79)
 compiled: 2026-04-06
 ---
 Balance short-term "bets" (quick wins, maintenance) and long-term "bets" (innovation, foundational work) to optimize outcomes and manage risk.

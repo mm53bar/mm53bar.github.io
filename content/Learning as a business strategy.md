@@ -4,12 +4,6 @@ sources:
   - "[[Clippings/Products Over Projects|Products Over Projects]]"
 publish: true
 tags: [evergreen]
-similar:
-  - Developers spend most of their time figuring out systems (0.79)
-  - Look for leverage (0.79)
-  - Mastering Ruby Debugging From puts to Professional Tools  The RubyMine Blog (0.79)
-  - Cheryl Court (0.79)
-  - Reduce uncertainty by treating development work as experiments (0.79)
 compiled: 2026-04-06
 ---
 Most teams treat _development speed_ as their bottleneck, but the real constraint is **learning speed**:

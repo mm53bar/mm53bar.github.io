@@ -3,12 +3,6 @@ sources:
   - "[[Clippings/Products Over Projects|Products Over Projects]]"
 publish: true
 tags: [evergreen]
-similar:
-  - Developers spend most of their time figuring out systems (0.80)
-  - Technical debt reflects incomplete understanding (0.79)
-  - What is this -product- you speak of- (0.79)
-  - Developers spend most of their time figuring the system out (0.79)
-  - The SPACE of Developer Productivity (0.79)
 compiled: 2026-04-06
 ---
 The "project" model—where teams form temporarily to deliver a predefined scope—creates systemic dysfunction in software:

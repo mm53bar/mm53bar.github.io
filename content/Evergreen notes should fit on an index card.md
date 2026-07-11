@@ -5,12 +5,6 @@ tags:
 sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
-similar:
-  - README (0.80)
-  - Atomic notes can transcend their original context (0.80)
-  - Synthesis notes connect atomic notes into actionable strategies (0.80)
-  - Furnace filter (0.79)
-  - Software Development Principles (0.79)
 compiled: 2026-04-06
 ---
 

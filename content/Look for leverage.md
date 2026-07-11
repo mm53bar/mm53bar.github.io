@@ -3,12 +3,6 @@ sources:
   - "[[Clippings/TBM 232- Leverage and Benefit Types - by John Cutler|TBM 232- Leverage and Benefit Types - by John Cutler]]"
 publish: true
 tags: [evergreen]
-similar:
-  - (1) The Predictability Trap - LinkedIn (0.79)
-  - Hoka Bondi (0.79)
-  - Data Overage ownership (0.79)
-  - Technical debt reflects incomplete understanding (0.79)
-  - Web Clip (0.79)
 compiled: 2026-04-06
 ---
 True leverage emerges when you match your effort to how the system _actually_ benefits. Most teams optimize for **local efficiencies** (e.g., faster deploys) while ignoring whether those improvements unlock **systemic outcomes** (e.g., higher retention). This explains why [[Learning is the constraint]]—you need deep context to spot where leverage really lives.

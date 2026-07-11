@@ -5,12 +5,6 @@ tags:
 sources:
   - "[[Clippings/Evergreen notes]]"
 publish: true
-similar:
-  - README (0.80)
-  - Note titles should match how you'll search for them (0.80)
-  - Evergreen notes should fit on an index card (0.80)
-  - Atomic notes can transcend their original context (0.80)
-  - Note from Fouad (0.79)
 compiled: 2026-04-06
 ---
 

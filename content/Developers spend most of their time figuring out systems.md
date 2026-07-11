@@ -2,12 +2,6 @@
 sources: "[[Clippings/Developers spend most of their time figuring the system out|Developers spend most of their time figuring the system out]]"
 publish: true
 tags: [evergreen]
-similar:
-  - Products over projects (0.80)
-  - 6 Weeks- Why It-s The Goldilocks Of Product Timeframes (0.79)
-  - Brain scans reveal coding uses same regions as speech (0.79)
-  - Card list layout for web apps (0.79)
-  - Thinkers and Doers (0.79)
 compiled: 2026-04-06
 ---
 A developer’s productivity bottleneck is rarely typing speed—it’s _understanding the system_. This includes:

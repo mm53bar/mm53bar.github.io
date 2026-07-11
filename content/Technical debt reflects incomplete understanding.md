@@ -3,12 +3,6 @@ sources:
   - "[[Clippings/Technical debt as a lack of understanding|Technical debt as a lack of understanding]]"
 publish: true
 tags: [evergreen]
-similar:
-  - Zen of AI Coding (0.80)
-  - authentication (0.79)
-  - Products over projects (0.79)
-  - Disadvantages of Pull Requests (0.79)
-  - Michael Stensby (0.79)
 compiled: 2026-04-06
 ---
 Technical debt isn't just messy or untested code - it’s the gap between the understanding you have today when you write the code and the deeper understanding you'll have in six months. Looked at this way, technical debt is inevitable.
